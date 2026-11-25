@@ -1,0 +1,4687 @@
+{
+  "schemaVersion": 5,
+  "articles": [
+    {
+      "id": "stroop-effect",
+      "contentVersion": 1,
+      "minutes": 1,
+      "source": "J. R. Stroop (1935). Studies of interference in serial verbal reactions. Journal of Experimental Psychology, 18(6), 643–662. DOI 10.1037/h0054651.",
+      "translations": {
+        "en": {
+          "title": "The Stroop effect",
+          "summary": "Why naming a color can be harder than reading a word.",
+          "body": [
+            "Imagine the word BLUE printed in green. If the task is to name the ink, the answer is green. Reading the word gives you a different answer at the same time.",
+            "In his 1935 experiment, John Ridley Stroop found that naming ink colors took longer when the printed words named different colors than when the colors were shown without those words.",
+            "Try the Color conflict exercise and notice when you feel drawn to read the word. The exercise counts correct choices only. It does not measure your attention or compare you with anyone else."
+          ],
+          "tags": [
+            "attention",
+            "color",
+            "reading"
+          ]
+        },
+        "ru": {
+          "title": "Эффект Струпа",
+          "summary": "Почему назвать цвет иногда труднее, чем прочитать слово.",
+          "body": [
+            "Представьте слово «СИНИЙ», написанное зелёным. Если нужно назвать цвет букв, ответ — зелёный. Если прочитать само слово, получится другой ответ.",
+            "В эксперименте 1935 года Джон Ридли Струп обнаружил, что люди медленнее называли цвета, когда слова обозначали другие цвета. В контрольном задании цвета показывали без этих слов.",
+            "Попробуйте упражнение «Конфликт цветов» и отметьте, в какой момент хочется прочитать слово. Упражнение считает верные ответы. Оно не измеряет уровень вашего внимания и не сравнивает вас с другими."
+          ],
+          "tags": [
+            "внимание",
+            "цвет",
+            "чтение"
+          ]
+        }
+      }
+    },
+    {
+      "id": "inattentional-blindness",
+      "contentVersion": 1,
+      "minutes": 2,
+      "source": "D. J. Simons & C. F. Chabris (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. Perception, 28(9), 1059–1074. DOI 10.1068/p281059.",
+      "translations": {
+        "en": {
+          "title": "What attention leaves out",
+          "summary": "How focusing on one task can make an unexpected event easy to miss.",
+          "body": [
+            "Two teams pass a basketball. Your task is to count passes by one team. While you are counting, an unexpected figure crosses the scene. Would you notice?",
+            "In an experiment by Daniel Simons and Christopher Chabris, some viewers missed the unexpected event while counting passes. Whether they reported it varied with the task and with how closely the unexpected figure resembled what they were attending to.",
+            "The next time you concentrate on one task, notice which details you remember afterward. This is a prompt for reflection. A single missed detail tells you little about your attention in other situations."
+          ],
+          "tags": [
+            "attention",
+            "perception",
+            "observation"
+          ]
+        },
+        "ru": {
+          "title": "Что мы упускаем из виду",
+          "summary": "Почему, сосредоточившись на одной задаче, легко пропустить неожиданное событие.",
+          "body": [
+            "Две команды передают баскетбольный мяч. Твоя задача — считать передачи одной команды. Пока ты считаешь, через площадку проходит неожиданная фигура. Ты бы её заметил?",
+            "В эксперименте Дэниела Саймонса и Кристофера Шабри часть зрителей не заметила неожиданное событие, пока считала передачи. Ответы зависели от задания и от того, насколько неожиданная фигура напоминала объекты, за которыми следили зрители.",
+            "В следующий раз, когда сосредоточишься на одной задаче, обрати внимание, какие детали вспомнишь после неё. Это повод для размышления. Один пропущенный момент мало говорит о твоём внимании в других ситуациях."
+          ],
+          "tags": [
+            "внимание",
+            "восприятие",
+            "наблюдение"
+          ]
+        }
+      }
+    },
+    {
+      "id": "working-memory",
+      "contentVersion": 1,
+      "minutes": 2,
+      "source": "A. D. Baddeley & G. Hitch (1974). Working Memory. Psychology of Learning and Motivation, 8, 47–89. DOI 10.1016/S0079-7421(08)60452-1.",
+      "translations": {
+        "en": {
+          "title": "Working memory in action",
+          "summary": "What happens when you keep information in mind and use it at the same time.",
+          "body": [
+            "Imagine hearing a room number while you look at signs in an unfamiliar hallway. You keep the number available and compare it with what you see as you walk.",
+            "Working memory describes this temporary use of information. In their early work, Alan Baddeley and Graham Hitch examined what happens when someone keeps a short series of items in mind while doing another task, such as reasoning.",
+            "Try noticing when you write something down so you can concentrate on the next step. It can help to recognize which parts of the task you were trying to keep in mind."
+          ],
+          "tags": [
+            "memory",
+            "thinking",
+            "attention"
+          ]
+        },
+        "ru": {
+          "title": "Рабочая память в действии",
+          "summary": "Как мы удерживаем информацию и сразу используем её.",
+          "body": [
+            "Представь, что тебе назвали номер комнаты и ты ищешь её по указателям в незнакомом коридоре. Пока идёшь, ты удерживаешь номер в уме и сравниваешь его с тем, что видишь.",
+            "Рабочая память описывает такое временное использование информации. В ранних исследованиях Алан Бэддели и Грэм Хитч изучали, что происходит, когда человек удерживает в уме короткую последовательность и одновременно выполняет другую задачу, например рассуждает.",
+            "Попробуй замечать моменты, когда записываешь что-то, чтобы сосредоточиться на следующем шаге. Так проще увидеть, какую часть задачи ты пытался удерживать в уме."
+          ],
+          "tags": [
+            "память",
+            "мышление",
+            "внимание"
+          ]
+        }
+      }
+    },
+    {
+      "id": "change-and-attention",
+      "contentVersion": 1,
+      "minutes": 3,
+      "source": "https://cim.mcgill.ca/~clark/vmrl/web-content/papers/jjclark_psych_sci_1997.pdf",
+      "translations": {
+        "en": {
+          "title": "Why we miss changes",
+          "summary": "A brief interruption can make an obvious change surprisingly hard to see.",
+          "body": [
+            "Two pictures can differ in a large object and still feel almost identical when a blank frame separates them. The brief gap masks the local movement that would point to the change.",
+            "In the laboratory, Rensink and colleagues found that a cue about where to look could make changes easier to find. The same picture gives you a different task when attention has a destination.",
+            "Try the change-blindness demonstration, then replay it after deciding in advance which part of the grid you will inspect first. Compare what you actually looked at."
+          ],
+          "tags": [
+            "attention",
+            "vision",
+            "experiment"
+          ]
+        },
+        "ru": {
+          "title": "Почему мы пропускаем изменения",
+          "summary": "Короткая пауза может сделать заметное изменение удивительно трудным для поиска.",
+          "body": [
+            "Две картинки могут отличаться большим предметом, но казаться одинаковыми, если между ними есть пустой кадр. Пауза скрывает движение, которое обычно выдаёт место изменения.",
+            "В эксперименте Ренсинка с коллегами подсказка о том, куда смотреть, помогала находить изменения. Задача становится другой, если внимание заранее направлено.",
+            "Попробуй демонстрацию в лаборатории, затем повтори, заранее выбрав часть сетки для первого взгляда. Сравни, куда было направлено внимание."
+          ],
+          "tags": [
+            "внимание",
+            "зрение",
+            "эксперимент"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ways-to-frame-a-choice",
+      "contentVersion": 1,
+      "minutes": 3,
+      "source": "https://doi.org/10.1126/science.7455683",
+      "translations": {
+        "en": {
+          "title": "One choice, two descriptions",
+          "summary": "What changes when a choice is described as keeping something rather than losing it?",
+          "body": [
+            "Imagine a shop will keep two of its five locations. The same decision can be described as closing three stores. The arithmetic is unchanged, but each sentence draws attention to something different.",
+            "Experiments by Tversky and Kahneman documented shifts in preferences when equivalent choices were described in different ways. A wording shift is one possible reason an option feels different.",
+            "Take an everyday choice and describe both outcomes using the same units. Write what each choice retains and what it gives up. If your preference shifts, look for the difference that matters."
+          ],
+          "tags": [
+            "choice",
+            "framing",
+            "decisions"
+          ]
+        },
+        "ru": {
+          "title": "Один выбор в двух формулировках",
+          "summary": "Что меняется, когда один выбор описывают через сохранение, а другой — через потерю?",
+          "body": [
+            "Представь, что магазин сохранит две точки из пяти. То же решение можно описать как закрытие трёх точек. Числа совпадают, но каждая фраза направляет внимание на своё.",
+            "В экспериментах Тверски и Канемана предпочтения менялись в зависимости от формулировки равнозначных вариантов. Изменение слов — одна из причин, по которым вариант может ощущаться иначе.",
+            "Возьми повседневное решение и опиши оба варианта в одинаковых единицах. Запиши, что каждый вариант сохраняет и от чего придётся отказаться. Если выбор изменился, найди существенное отличие."
+          ],
+          "tags": [
+            "выбор",
+            "формулировка",
+            "решения"
+          ]
+        }
+      }
+    },
+    {
+      "id": "familiarity-and-memory",
+      "contentVersion": 1,
+      "minutes": 3,
+      "source": "https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-McDermott-1995_JEPLMC.pdf",
+      "translations": {
+        "en": {
+          "title": "Familiarity is a clue",
+          "summary": "A word can feel familiar because it belongs with things you remember.",
+          "body": [
+            "Think of a list with kettle, mug, steam and saucer. Tea may come to mind easily even if it was absent from the list. That association can affect recognition.",
+            "Roediger and McDermott studied how people recognised words after reading related lists. Participants sometimes remembered a theme word that had not actually been shown.",
+            "For an ordinary example, compare a remembered grocery list with the written list. Notice which items you expected to see and which details you remember from reading."
+          ],
+          "tags": [
+            "memory",
+            "recognition",
+            "words"
+          ]
+        },
+        "ru": {
+          "title": "Когда слово кажется знакомым",
+          "summary": "Слово может казаться знакомым, потому что оно связано с тем, что ты запомнил.",
+          "body": [
+            "Представь список: чайник, кружка, пар, блюдце. Слово «чай» легко приходит на ум, хотя его в списке не было. Такая связь может повлиять на узнавание.",
+            "Рёдигер и Макдермотт изучали, как люди узнавали слова после чтения связанных списков. Иногда участники вспоминали слово по теме, которого не видели.",
+            "Для повседневного примера сравни список покупок по памяти с записью. Заметь, какие продукты ты ожидал увидеть и какие детали помнишь по самому списку."
+          ],
+          "tags": [
+            "память",
+            "узнавание",
+            "слова"
+          ]
+        }
+      }
+    },
+    {
+      "id": "retrieval-and-learning",
+      "contentVersion": 1,
+      "minutes": 3,
+      "source": "J. D. Karpicke & H. L. Roediger III (2008). The critical importance of retrieval for learning. Science, 319(5865), 966–968. DOI 10.1126/science.1152408.",
+      "translations": {
+        "en": {
+          "title": "What comes back with the page closed?",
+          "summary": "Why trying to recall something can reveal what rereading leaves hidden.",
+          "body": [
+            "The notes make perfect sense while you look at them. Close the notebook, and the first sentence is suddenly harder to find. That gap is worth noticing. Recognizing an explanation and producing one from memory ask different things of you.",
+            "In a study of foreign-language vocabulary, Jeffrey Karpicke and Henry Roediger changed what students did after they had correctly recalled a word. Some kept practising recall. Others kept seeing the words during study without having to retrieve them again. On a test a week later, continuing to retrieve the words helped retention. Continued restudy did not produce the same benefit in that experiment.",
+            "Try it with something modest, such as a short explanation or three words in a language you are learning. Put the material away and write what you remember. Reopen it to check the gaps. Give yourself another chance the next day, especially on the details that did not come back.",
+            "The study used a particular kind of material and a particular testing schedule. Your own exercise is a check on how the material is sticking, with room to adapt it to what you are learning."
+          ],
+          "tags": [
+            "memory",
+            "learning",
+            "recall"
+          ]
+        },
+        "ru": {
+          "title": "Что вспоминается без подсказки?",
+          "summary": "Почему попытка вспомнить помогает заметить то, что ускользает при перечитывании.",
+          "body": [
+            "Пока конспект перед глазами, объяснение кажется ясным. Стоит закрыть тетрадь, и первую фразу уже трудно подобрать. Этот разрыв полезно заметить. Узнать готовое объяснение и самостоятельно воспроизвести его из памяти — разные задачи.",
+            "В исследовании с иностранными словами Джеффри Карпике и Генри Рёдигер меняли то, что студенты делали после первого правильного ответа. Одни продолжали вспоминать слово. Другие продолжали видеть его при повторении, но им больше не нужно было вспоминать его самостоятельно. При проверке через неделю дальнейшие попытки вспомнить помогли удержать слова в памяти. Дополнительный просмотр слов в этом эксперименте такого же эффекта не дал.",
+            "Попробуй на небольшом материале. Прочитай короткое объяснение или выучи три слова. Убери подсказку, запиши то, что помнишь, и сверь запись с оригиналом. На следующий день начни с деталей, которые не удалось вспомнить.",
+            "В исследовании использовали определённый материал и расписание проверки. Это упражнение помогает увидеть, что из твоего материала удержалось в памяти, и выбрать, к чему вернуться."
+          ],
+          "tags": [
+            "память",
+            "обучение",
+            "воспроизведение"
+          ]
+        }
+      }
+    },
+    {
+      "id": "habit-and-context",
+      "contentVersion": 1,
+      "minutes": 3,
+      "source": "P. Lally, C. H. M. van Jaarsveld, H. W. W. Potts & J. Wardle (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. DOI 10.1002/ejsp.674.",
+      "translations": {
+        "en": {
+          "title": "Give a habit somewhere to land",
+          "summary": "How a familiar situation helps a small action become easier to start.",
+          "body": [
+            "A place or moment can carry part of the work of remembering. Leaving a book beside a chair makes reading after lunch a more concrete possibility than promising to read sometime today.",
+            "Phillippa Lally and colleagues followed volunteers who chose a daily action and tried to repeat it in the same context over twelve weeks. The participants reported how automatic the action felt. The team observed substantial differences in the estimated time people took to approach their own plateau. In their data, a single missed opportunity did not materially affect the pattern.",
+            "Choose one small action and pair it with a situation that already happens. After putting the kettle on, you might write one line in a notebook. Keep the notebook where you can reach it. If the cue is unreliable, adjust the cue before adding more effort.",
+            "The researchers modelled self-reported automaticity for specific behaviours. A calendar can reveal patterns, but it cannot tell you on which day an action will feel effortless."
+          ],
+          "tags": [
+            "habits",
+            "context",
+            "routine"
+          ]
+        },
+        "ru": {
+          "title": "Найди для привычки свой момент",
+          "summary": "Как знакомая ситуация помогает начать небольшое действие.",
+          "body": [
+            "Место или момент могут взять на себя часть работы памяти. Если книга лежит у кресла, почитать после обеда проще представить, чем выполнить обещание «почитаю когда-нибудь сегодня».",
+            "Филиппа Лалли и коллеги в течение двенадцати недель наблюдали за добровольцами. Каждый выбрал действие и старался повторять его в одном и том же контексте. Участники записывали, насколько автоматически оно начиналось. По оценкам исследователей, люди выходили на свой устойчивый уровень автоматичности за очень разное время. Один пропуск в этих данных заметно не менял общую картину.",
+            "Выбери небольшое действие и свяжи его с тем, что уже случается в течение дня. Пока закипает чайник, можно написать одну строку в блокноте. Положи блокнот там, где он под рукой. Если момент постоянно меняется, попробуй подобрать ориентир, который повторяется чаще.",
+            "В исследовании оценивали конкретные действия и опирались на самоотчёты. Календарь помогает заметить, когда действие приживается. Срок, когда оно станет лёгким, у каждого свой."
+          ],
+          "tags": [
+            "привычки",
+            "контекст",
+            "повседневность"
+          ]
+        }
+      }
+    },
+    {
+      "id": "if-then-plans",
+      "contentVersion": 1,
+      "minutes": 3,
+      "source": "P. M. Gollwitzer & V. Brandstätter (1997). Implementation intentions and effective goal pursuit. Journal of Personality and Social Psychology, 73(1), 186–199. DOI 10.1037/0022-3514.73.1.186.",
+      "translations": {
+        "en": {
+          "title": "Make the first move easier to find",
+          "summary": "An if–then plan connects a recognizable situation to a specific action.",
+          "body": [
+            "“I want to start on the draft” says what matters. “When I sit down after lunch, I’ll write three headings” gives that intention a place in the day. The two statements do different work.",
+            "Peter Gollwitzer and Veronika Brandstätter studied what happens when people plan where and when to begin a chosen goal. In one experiment, participants received the same assignment, while some made a specific plan for when and where they would work on it. A concrete plan helped more participants carry out the assignment under the conditions studied.",
+            "Pick a goal you already want. Name a situation you can recognize without a reminder and a first action within your control. Make it small enough to begin even on a crowded day. One useful alternative is to name a second time or place for days when the first cue never comes.",
+            "Record what happened the next time the cue appeared. Was it easy to notice? Could you start? The answers help you refine the plan or choose a more realistic action."
+          ],
+          "tags": [
+            "planning",
+            "goals",
+            "habits"
+          ]
+        },
+        "ru": {
+          "title": "Сделай первый шаг заметным",
+          "summary": "План «если — то» связывает узнаваемую ситуацию с конкретным действием.",
+          "body": [
+            "«Хочу начать черновик» говорит о цели. «Когда сяду за стол после обеда, запишу три заголовка» даёт этой цели место в распорядке дня. У этих фраз разные задачи.",
+            "Петер Гольвитцер и Вероника Брандштеттер исследовали, что меняется, когда человек заранее уточняет место и время первого действия. В одном эксперименте участникам дали одно и то же задание. Часть группы дополнительно запланировала, когда и где за него возьмётся. В условиях этого исследования конкретный план помог большему числу участников выполнить задание.",
+            "Выбери цель, к которой уже хочешь двигаться. Назови момент, который легко узнать, и первый шаг, который от тебя зависит. Пусть его можно будет сделать даже в загруженный день. Если этот момент часто срывается, придумай запасное время или место.",
+            "В следующий раз запиши, как всё прошло. Удалось вовремя узнать нужный момент? Получилось приступить? Ответы подскажут, стоит ли поменять ориентир или уменьшить первый шаг."
+          ],
+          "tags": [
+            "планы",
+            "цели",
+            "привычки"
+          ]
+        }
+      }
+    },
+    {
+      "id": "test-an-alternative",
+      "contentVersion": 1,
+      "minutes": 3,
+      "source": "P. C. Wason (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129–140. DOI 10.1080/17470216008416717.",
+      "translations": {
+        "en": {
+          "title": "Ask for a case that could surprise you",
+          "summary": "What a number puzzle shows about looking for evidence that separates explanations.",
+          "body": [
+            "Suppose a shop has a queue each time you pass on a Friday. Several explanations fit: the Friday offer, the hour just after work, or the fact that another shop nearby is closed. Another Friday sighting may still fit all three stories.",
+            "In Peter Wason’s number task, participants saw an example that fit a hidden rule. They proposed more examples and were told whether each fitted. Some tried sequences that agreed with their first idea. When that idea was narrower than the actual rule, agreement alone did little to distinguish between them.",
+            "When you have two possible explanations, try asking what each one would predict under a different condition. A weekday visit at the same hour could help separate a Friday effect from a time-of-day effect. Write the predictions first so that an unexpected result has somewhere to go.",
+            "Wason studied a small group tackling a formal task. Everyday observations have more moving pieces. Treat one observation as a reason to ask the next question, especially when several explanations could still fit."
+          ],
+          "tags": [
+            "reasoning",
+            "evidence",
+            "decision"
+          ]
+        },
+        "ru": {
+          "title": "Поищи случай, который может удивить",
+          "summary": "Что числовая задача показывает о проверке разных объяснений.",
+          "body": [
+            "Допустим, каждую пятницу ты проходишь мимо магазина и видишь очередь. Подходят разные объяснения: пятничная акция, час сразу после работы или закрытый соседний магазин. Ещё одна пятница с очередью может согласоваться со всеми тремя версиями.",
+            "В числовой задаче Питера Уэйсона участники видели пример, который подчинялся скрытому правилу. Они предлагали новые примеры и получали ответ, подходят ли те. Некоторые выбирали последовательности в согласии со своей первой догадкой. Если догадка была уже настоящего правила, новые совпадения почти не помогали различить эти варианты.",
+            "Когда есть две возможные причины, представь, что каждая предсказывает в других условиях. Визит в будний день в тот же час может помочь отделить эффект пятницы от эффекта времени. Запиши ожидания заранее, чтобы было проще заметить неожиданный результат.",
+            "Уэйсон изучал небольшую группу людей в формальной задаче. В повседневной ситуации обстоятельств больше. Одно наблюдение даёт повод задать следующий вопрос, особенно когда несколько объяснений всё ещё подходят."
+          ],
+          "tags": [
+            "мышление",
+            "доказательства",
+            "решения"
+          ]
+        }
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "story-before-the-meeting",
+      "contentVersion": 1,
+      "kind": "story",
+      "palette": "amber",
+      "minutes": 4,
+      "start": "opening",
+      "flags": [
+        "context"
+      ],
+      "translations": {
+        "en": {
+          "title": "Before the meeting",
+          "summary": "A colleague asks you to keep quiet about a mistake. There is still time to put it right.",
+          "tags": [
+            "work",
+            "trust",
+            "responsibility"
+          ]
+        },
+        "ru": {
+          "title": "Перед совещанием",
+          "summary": "Коллега просит промолчать об ошибке. Её ещё можно исправить.",
+          "tags": [
+            "работа",
+            "доверие",
+            "ответственность"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "A quiet request",
+              "body": "Ten minutes before the meeting, Mira shows you the estimate on her laptop. One line uses last month’s numbers. The client has the slide already. “Could we leave it for today?” she asks. “I can fix the file after the call.”"
+            },
+            "ru": {
+              "title": "Тихая просьба",
+              "body": "За десять минут до совещания Мира показывает тебе смету. В одной строке остались числа за прошлый месяц. Слайд уже у клиента. «Давай сегодня промолчим? — спрашивает она. — После разговора я исправлю файл»."
+            }
+          },
+          "choices": [
+            {
+              "id": "ask-details",
+              "next": "corridor",
+              "labels": {
+                "en": {
+                  "label": "Ask who has seen the estimate"
+                },
+                "ru": {
+                  "label": "Уточнить, кто видел смету"
+                }
+              },
+              "set": {
+                "context": true
+              }
+            },
+            {
+              "id": "offer-help",
+              "next": "corridor",
+              "labels": {
+                "en": {
+                  "label": "Offer to address it together"
+                },
+                "ru": {
+                  "label": "Предложить исправить ошибку вместе"
+                }
+              }
+            },
+            {
+              "id": "keep-quiet",
+              "next": "quiet",
+              "labels": {
+                "en": {
+                  "label": "Agree to wait until after the meeting"
+                },
+                "ru": {
+                  "label": "Согласиться подождать до конца совещания"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "corridor",
+          "translations": {
+            "en": {
+              "title": "At the meeting room",
+              "body": "Mira says the client is deciding whether to commit a budget today. She has the corrected line on paper. The team lead waves you into the room."
+            },
+            "ru": {
+              "title": "У переговорной",
+              "body": "Мира говорит, что клиент сегодня решает, выделять ли бюджет. Исправленная строка у неё на листке. Руководитель зовёт вас в переговорную."
+            }
+          },
+          "choices": [
+            {
+              "id": "speak-together",
+              "next": "together",
+              "labels": {
+                "en": {
+                  "label": "Offer to explain the correction together"
+                },
+                "ru": {
+                  "label": "Предложить объяснить исправление вместе"
+                }
+              }
+            },
+            {
+              "id": "signal-lead",
+              "next": "lead",
+              "labels": {
+                "en": {
+                  "label": "Ask the lead to pause and check the estimate"
+                },
+                "ru": {
+                  "label": "Попросить руководителя взять паузу и проверить смету"
+                }
+              }
+            },
+            {
+              "id": "send-correction",
+              "next": "written",
+              "labels": {
+                "en": {
+                  "label": "Send a correction to everyone who received the slide"
+                },
+                "ru": {
+                  "label": "Отправить исправление всем, кто получил слайд"
+                }
+              },
+              "when": {
+                "context": true
+              }
+            }
+          ]
+        },
+        {
+          "id": "quiet",
+          "translations": {
+            "en": {
+              "title": "An agreement, then a question",
+              "body": "The meeting ends with a provisional decision. You and Mira send a correction that afternoon. The client asks which version the decision was based on, and the team schedules a second call.",
+              "reflection": "Which commitments were you trying to protect when you chose to wait?"
+            },
+            "ru": {
+              "title": "Решение с оговоркой",
+              "body": "Совещание заканчивается предварительным решением. Днём вы с Мирой отправляете исправление. Клиент спрашивает, на каких данных было принято решение, и команда назначает второй разговор.",
+              "reflection": "Что ты пытался сохранить, когда решил подождать?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "together",
+          "translations": {
+            "en": {
+              "title": "Two voices",
+              "body": "Mira states the change and you explain where it affects the estimate. The client asks for the corrected file and postpones the budget discussion by a day.",
+              "reflection": "How did sharing the explanation change what you were willing to say?"
+            },
+            "ru": {
+              "title": "Вдвоём",
+              "body": "Мира говорит, что изменилось, а ты объясняешь, как это повлияло на смету. Клиент просит исправленный файл и переносит обсуждение бюджета на день.",
+              "reflection": "Что изменилось в твоей готовности говорить, когда вы решили объяснить исправление вместе?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "lead",
+          "translations": {
+            "en": {
+              "title": "A pause",
+              "body": "The lead calls a brief break. Mira uses it to confirm the correction. When everyone returns, the lead updates the meeting notes and gives Mira the floor.",
+              "reflection": "When does asking someone with authority for help make it easier to take responsibility?"
+            },
+            "ru": {
+              "title": "Пауза",
+              "body": "Руководитель объявляет короткий перерыв. Мира ещё раз проверяет исправление. Когда все возвращаются, руководитель обновляет заметки к встрече и передаёт ей слово.",
+              "reflection": "Когда обращение к руководителю помогает взять ответственность?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "written",
+          "translations": {
+            "en": {
+              "title": "A clear record",
+              "body": "The corrected line lands in everyone’s inbox before the discussion. You and Mira can point to the same version. She asks to speak with you later about how the message was sent.",
+              "reflection": "What would you communicate privately before sending a correction to everyone?"
+            },
+            "ru": {
+              "title": "Исправление у всех",
+              "body": "Исправленная строка приходит всем до обсуждения. Теперь вы с Мирой можете сослаться на одну версию. Она просит позже поговорить о том, как было отправлено письмо.",
+              "reflection": "Что ты обсудил бы лично перед общей рассылкой исправления?"
+            }
+          },
+          "choices": []
+        }
+      ]
+    },
+    {
+      "id": "story-last-train",
+      "contentVersion": 1,
+      "kind": "story",
+      "palette": "ocean",
+      "minutes": 3,
+      "start": "opening",
+      "flags": [],
+      "translations": {
+        "en": {
+          "title": "The last train",
+          "summary": "A friend wants to talk just as your last train is about to leave.",
+          "tags": [
+            "friendship",
+            "boundaries",
+            "communication"
+          ]
+        },
+        "ru": {
+          "title": "Последний поезд",
+          "summary": "Друг хочет поговорить, когда до последнего поезда остаются считаные минуты.",
+          "tags": [
+            "дружба",
+            "границы",
+            "общение"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "Five minutes",
+              "body": "At the station, Lev says, “Can we talk? I’ve been putting it off all week.” The last train leaves in five minutes and your phone is almost out of power."
+            },
+            "ru": {
+              "title": "Пять минут",
+              "body": "На станции Лев говорит: «Можем поговорить? Я всю неделю откладывал». Последний поезд отправляется через пять минут, а телефон почти разрядился."
+            }
+          },
+          "choices": [
+            {
+              "id": "name-the-time",
+              "next": "platform",
+              "labels": {
+                "en": {
+                  "label": "Say how much time you have and ask what he needs"
+                },
+                "ru": {
+                  "label": "Сказать, сколько у тебя времени, и спросить, что ему нужно"
+                }
+              }
+            },
+            {
+              "id": "stay",
+              "next": "stay-ending",
+              "labels": {
+                "en": {
+                  "label": "Stay and arrange another way home"
+                },
+                "ru": {
+                  "label": "Остаться и найти другой способ добраться домой"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "platform",
+          "translations": {
+            "en": {
+              "title": "One urgent part",
+              "body": "Lev says he mostly wants to know whether you are still coming on Saturday. The rest can wait. The platform announcement starts."
+            },
+            "ru": {
+              "title": "Один срочный вопрос",
+              "body": "Лев говорит, что в первую очередь хочет узнать, придёшь ли ты в субботу. Остальное может подождать. На платформе объявляют посадку."
+            }
+          },
+          "choices": [
+            {
+              "id": "answer-now",
+              "next": "talk-ending",
+              "labels": {
+                "en": {
+                  "label": "Answer now and agree when to talk about the rest"
+                },
+                "ru": {
+                  "label": "Ответить сейчас и договориться о другом времени"
+                }
+              }
+            },
+            {
+              "id": "schedule",
+              "next": "later-ending",
+              "labels": {
+                "en": {
+                  "label": "Agree on a time tomorrow for the whole conversation"
+                },
+                "ru": {
+                  "label": "Назначить разговор на завтра"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "stay-ending",
+          "translations": {
+            "en": {
+              "title": "Room to talk",
+              "body": "Lev is relieved to talk now. On the walk to find a taxi, you notice how tired you are after the day. Both things can be true at once.",
+              "reflection": "What helps you tell the difference between freely making time and feeling unable to say no?"
+            },
+            "ru": {
+              "title": "Время поговорить",
+              "body": "Льву стало легче от разговора. Пока вы ищете такси, ты замечаешь, как сильно устал за день. Эти чувства могут сосуществовать.",
+              "reflection": "Как ты отличаешь решение остаться по своему желанию от ощущения, что нельзя отказать?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "talk-ending",
+          "translations": {
+            "en": {
+              "title": "A place to continue",
+              "body": "You settle Saturday and agree to call tomorrow. Lev walks with you to the door of the train. You both know which part of the conversation comes next.",
+              "reflection": "When a conversation must pause, what makes it easier to trust that it will continue?"
+            },
+            "ru": {
+              "title": "Есть о чём продолжить",
+              "body": "Вы решаете вопрос с субботой и договариваетесь созвониться завтра. Лев провожает тебя до двери поезда. Вы оба знаете, с чего начать следующий разговор.",
+              "reflection": "Что помогает тебе верить, что отложенный разговор действительно продолжится?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "later-ending",
+          "translations": {
+            "en": {
+              "title": "An appointment",
+              "body": "You choose a time and put it in your calendar. Lev looks disappointed, then says he can wait. You make the train with a minute to spare.",
+              "reflection": "How would you show someone that a postponed conversation still matters to you?"
+            },
+            "ru": {
+              "title": "Время в календаре",
+              "body": "Вы выбираете время, и ты записываешь его в календарь. Лев выглядит расстроенным, но говорит, что может подождать. Ты успеваешь на поезд за минуту до отправления.",
+              "reflection": "Как показать человеку, что отложенный разговор всё ещё важен для тебя?"
+            }
+          },
+          "choices": []
+        }
+      ]
+    },
+    {
+      "id": "alter-first-month",
+      "contentVersion": 1,
+      "kind": "alter",
+      "palette": "dusk",
+      "minutes": 4,
+      "start": "opening",
+      "flags": [],
+      "translations": {
+        "en": {
+          "title": "The first month elsewhere",
+          "summary": "A temporary job offer opens two possible versions of the same year.",
+          "tags": [
+            "relocation",
+            "work",
+            "values"
+          ]
+        },
+        "ru": {
+          "title": "Первый месяц в другом городе",
+          "summary": "Временная работа открывает два варианта одного и того же года.",
+          "tags": [
+            "переезд",
+            "работа",
+            "ценности"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "An email on Sunday",
+              "body": "A small studio in another city offers you a six-month role. You want to see what the work is like. You also have a weekly ritual here that gives your days some shape. The offer expires on Friday."
+            },
+            "ru": {
+              "title": "Письмо в воскресенье",
+              "body": "Маленькая студия в другом городе предлагает тебе работу на полгода. Ты хочешь узнать, чем там живут. Дома у тебя есть еженедельный ритуал, который помогает держать ритм. Ответ ждут до пятницы."
+            }
+          },
+          "choices": [
+            {
+              "id": "ask-for-visit",
+              "next": "visit",
+              "labels": {
+                "en": {
+                  "label": "Ask to spend a day at the studio"
+                },
+                "ru": {
+                  "label": "Попросить провести день в студии"
+                }
+              }
+            },
+            {
+              "id": "try-local",
+              "next": "local-ending",
+              "labels": {
+                "en": {
+                  "label": "Stay and make a local project with the time you have"
+                },
+                "ru": {
+                  "label": "Остаться и начать местный проект"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "visit",
+          "translations": {
+            "en": {
+              "title": "One afternoon there",
+              "body": "You enjoy the work more than the room, and the people more than the commute. Over lunch, a teammate says the schedule is flexible during the first month."
+            },
+            "ru": {
+              "title": "Один день в студии",
+              "body": "Работа нравится тебе больше самого офиса, а люди — больше дороги до него. За обедом коллега говорит, что в первый месяц график можно менять."
+            }
+          },
+          "choices": [
+            {
+              "id": "take-the-role",
+              "next": "move-ending",
+              "labels": {
+                "en": {
+                  "label": "Accept and plan the first month around a few familiar rituals"
+                },
+                "ru": {
+                  "label": "Согласиться и сохранить несколько привычек на первый месяц"
+                }
+              }
+            },
+            {
+              "id": "ask-for-trial",
+              "next": "trial-ending",
+              "labels": {
+                "en": {
+                  "label": "Propose a short trial before deciding where to live"
+                },
+                "ru": {
+                  "label": "Предложить короткий пробный период до решения о переезде"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "local-ending",
+          "translations": {
+            "en": {
+              "title": "A year taking shape",
+              "body": "You turn down the role and make Friday mornings your project time. The studio follows your work from afar. A year later, you still wonder about the city, even as you value what you built at home.",
+              "reflection": "What would make staying feel like an active decision in this situation?"
+            },
+            "ru": {
+              "title": "Год обретает форму",
+              "body": "Ты отказываешься и выделяешь пятницы под свой проект. Студия следит за твоей работой на расстоянии. Через год тебе всё ещё любопытен тот город, хотя ты ценишь то, что сделал дома.",
+              "reflection": "Что в такой ситуации сделало бы решение остаться осознанным выбором?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "move-ending",
+          "translations": {
+            "en": {
+              "title": "Familiar things in a new place",
+              "body": "You move with two bags and keep your Sunday walk in the calendar. Some weeks it helps. Other weeks, a new routine comes from work or from a walk you took by accident.",
+              "reflection": "Which familiar habit would you carry into a new setting? Which one would you let change?"
+            },
+            "ru": {
+              "title": "Привычное в новом месте",
+              "body": "Ты переезжаешь с двумя сумками и оставляешь в календаре воскресную прогулку. Иногда она помогает. В другие недели новый ритм возникает на работе или по дороге, на которую ты свернул случайно.",
+              "reflection": "Какую привычку ты взял бы с собой? Какую позволил бы изменить?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "trial-ending",
+          "translations": {
+            "en": {
+              "title": "A smaller commitment",
+              "body": "The studio agrees to two weeks of work together. The arrangement gives you useful information. It also means asking twice for something you might not get.",
+              "reflection": "What could a short trial tell you about a change? What would still remain uncertain?"
+            },
+            "ru": {
+              "title": "Меньше обязательств",
+              "body": "Студия соглашается на две недели совместной работы. Это даёт новую информацию. При этом о долгосрочных условиях, которых тебе могут не предложить, придётся говорить ещё раз.",
+              "reflection": "Что короткая проба помогла бы тебе узнать? Что всё равно осталось бы неопределённым?"
+            }
+          },
+          "choices": []
+        }
+      ]
+    },
+    {
+      "id": "alter-week-of-thursdays",
+      "contentVersion": 1,
+      "kind": "alter",
+      "palette": "amber",
+      "minutes": 3,
+      "start": "opening",
+      "flags": [],
+      "translations": {
+        "en": {
+          "title": "Five free Thursdays",
+          "summary": "An unusual invitation makes you reconsider how to spend your spare time.",
+          "tags": [
+            "creativity",
+            "priorities",
+            "time"
+          ]
+        },
+        "ru": {
+          "title": "Пять свободных четвергов",
+          "summary": "Неожиданное предложение заставляет задуматься, чему отдать свободное время.",
+          "tags": [
+            "творчество",
+            "приоритеты",
+            "время"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "A key to the workshop",
+              "body": "A neighbor offers you the key to a shared workshop for five Thursday evenings. You have always wanted to make something with your hands. Thursdays are also the only evening you regularly keep free."
+            },
+            "ru": {
+              "title": "Ключ от мастерской",
+              "body": "Сосед предлагает ключ от общей мастерской на пять четвергов. Тебе давно хочется сделать что-нибудь своими руками. При этом четверг — единственный вечер, который обычно остаётся свободным."
+            }
+          },
+          "choices": [
+            {
+              "id": "plan-project",
+              "next": "plan",
+              "labels": {
+                "en": {
+                  "label": "Reserve time for one specific project"
+                },
+                "ru": {
+                  "label": "Выделить время на один конкретный проект"
+                }
+              }
+            },
+            {
+              "id": "keep-thursdays",
+              "next": "rest-ending",
+              "labels": {
+                "en": {
+                  "label": "Keep the evenings open"
+                },
+                "ru": {
+                  "label": "Оставить вечера свободными"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "plan",
+          "translations": {
+            "en": {
+              "title": "A task that fits",
+              "body": "You could build a small shelf in five evenings. You could also learn to use the tools without committing to a finished object. Both options fit the rules of the workshop."
+            },
+            "ru": {
+              "title": "Задача по силам",
+              "body": "За пять вечеров можно собрать небольшую полку. А можно просто освоить инструменты без обещания закончить изделие. Правила мастерской позволяют и то и другое."
+            }
+          },
+          "choices": [
+            {
+              "id": "make-shelf",
+              "next": "shelf-ending",
+              "labels": {
+                "en": {
+                  "label": "Make the shelf"
+                },
+                "ru": {
+                  "label": "Сделать полку"
+                }
+              }
+            },
+            {
+              "id": "explore-tools",
+              "next": "learn-ending",
+              "labels": {
+                "en": {
+                  "label": "Learn the tools first"
+                },
+                "ru": {
+                  "label": "Для начала освоить инструменты"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "rest-ending",
+          "translations": {
+            "en": {
+              "title": "Open evenings",
+              "body": "Two Thursdays go to rest. One goes to an unplanned dinner. You ask your neighbor about a single session next month, now that you have a clearer sense of what you wanted from the offer.",
+              "reflection": "What makes free time worth protecting for you?"
+            },
+            "ru": {
+              "title": "Открытые вечера",
+              "body": "Два четверга уходят на отдых, один — на незапланированный ужин. Теперь ты яснее понимаешь, чего хотел от этого предложения, и спрашиваешь соседа про один вечер в следующем месяце.",
+              "reflection": "В каких случаях тебе особенно важно сохранять свободное время?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "shelf-ending",
+          "translations": {
+            "en": {
+              "title": "A shelf with a history",
+              "body": "The shelf is ready on the last evening. It sits by the door, where you use it daily. The deadline helped you finish, even though you often wanted more time to experiment.",
+              "reflection": "When does a finished object motivate you more than a chance to explore?"
+            },
+            "ru": {
+              "title": "Полка с историей",
+              "body": "В последний вечер полка готова. Ты ставишь её у двери и пользуешься каждый день. Срок помог закончить работу, хотя порой хотелось дольше поэкспериментировать.",
+              "reflection": "Когда готовое изделие мотивирует тебя сильнее, чем возможность исследовать?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "learn-ending",
+          "translations": {
+            "en": {
+              "title": "A new skill",
+              "body": "You leave with a few practice pieces and a list of tools you can use on your own. You have no shelf yet, but you know how to start when you want one.",
+              "reflection": "How do you notice progress when there is no finished object to point to?"
+            },
+            "ru": {
+              "title": "Новое умение",
+              "body": "Ты уходишь с несколькими пробными деталями и списком инструментов, которыми уже можешь пользоваться сам. Полки пока нет, зато ты знаешь, с чего начать.",
+              "reflection": "Как ты замечаешь прогресс, когда ещё нечего показать в виде готовой вещи?"
+            }
+          },
+          "choices": []
+        }
+      ]
+    },
+    {
+      "id": "story-after-the-announcement",
+      "contentVersion": 1,
+      "kind": "story",
+      "palette": "ocean",
+      "minutes": 3,
+      "start": "opening",
+      "flags": [],
+      "translations": {
+        "en": {
+          "title": "After the announcement",
+          "summary": "A shared project changes direction just before you can present your part.",
+          "tags": [
+            "teamwork",
+            "communication",
+            "uncertainty"
+          ]
+        },
+        "ru": {
+          "title": "После объявления",
+          "summary": "Команда меняет направление проекта прямо перед тем, как ты показываешь свою часть.",
+          "tags": [
+            "команда",
+            "общение",
+            "неопределённость"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "A different direction",
+              "body": "At a volunteer meeting, the group announces a change of plan. The map you spent two weeks making is suddenly outside the agenda. A teammate notices your silence and asks what happened."
+            },
+            "ru": {
+              "title": "Другое направление",
+              "body": "На встрече волонтёров команда объявляет о смене плана. Карта, над которой ты работал две недели, внезапно исчезает из повестки. Коллега замечает твоё молчание и спрашивает, что случилось."
+            }
+          },
+          "choices": [
+            {
+              "id": "ask-about-plan",
+              "next": "details",
+              "labels": {
+                "en": {
+                  "label": "Ask what led to the change"
+                },
+                "ru": {
+                  "label": "Спросить, почему изменился план"
+                }
+              }
+            },
+            {
+              "id": "request-time",
+              "next": "pause",
+              "labels": {
+                "en": {
+                  "label": "Ask to return to the discussion later"
+                },
+                "ru": {
+                  "label": "Попросить вернуться к этому разговору позднее"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "details",
+          "translations": {
+            "en": {
+              "title": "A smaller audience",
+              "body": "You learn the map is still useful for the orientation group, even though the wider campaign will use a different format. The team is happy to discuss both possibilities."
+            },
+            "ru": {
+              "title": "Другая аудитория",
+              "body": "Ты узнаёшь, что карта всё ещё пригодится группе новичков, хотя основная кампания будет в другом формате. Команда готова обсудить оба варианта."
+            }
+          },
+          "choices": [
+            {
+              "id": "adapt-map",
+              "next": "adapted",
+              "labels": {
+                "en": {
+                  "label": "Offer the map to the orientation team"
+                },
+                "ru": {
+                  "label": "Предложить карту группе новичков"
+                }
+              }
+            },
+            {
+              "id": "keep-map",
+              "next": "kept",
+              "labels": {
+                "en": {
+                  "label": "Document the work and move to the new brief"
+                },
+                "ru": {
+                  "label": "Задокументировать работу и перейти к новой задаче"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "pause",
+          "translations": {
+            "en": {
+              "title": "A conversation tomorrow",
+              "body": "You agree to talk the next day. The pause lets you put your frustration into words. It also delays a decision about whether the map can still be used.",
+              "reflection": "What would you want to know before asking for a pause?"
+            },
+            "ru": {
+              "title": "Разговор завтра",
+              "body": "Вы договариваетесь поговорить на следующий день. За это время ты находишь слова, чтобы выразить своё недовольство. Решение о том, пригодится ли карта, тоже откладывается.",
+              "reflection": "Что тебе важно знать, прежде чем просить паузу?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "adapted",
+          "translations": {
+            "en": {
+              "title": "A second purpose",
+              "body": "The orientation team tries the map with two people and asks for a simpler legend. Your work gets used in a way you had not expected.",
+              "reflection": "When does adapting something feel satisfying? When does it feel like redoing work you had already finished?"
+            },
+            "ru": {
+              "title": "Новое назначение",
+              "body": "Группа новичков пробует карту с двумя людьми и просит упростить условные обозначения. Твоя работа находит применение, которого ты не ожидал.",
+              "reflection": "Когда переделка приносит удовлетворение? Когда кажется, что приходится заново делать уже законченную работу?"
+            }
+          },
+          "choices": []
+        },
+        {
+          "id": "kept",
+          "translations": {
+            "en": {
+              "title": "A clear handover",
+              "body": "You leave the map with an explanation of what you learned and take on one part of the new plan. Another volunteer can pick up the old work when there is time.",
+              "reflection": "What helps you put a finished effort aside while keeping what you learned from it?"
+            },
+            "ru": {
+              "title": "Понятная передача",
+              "body": "Ты сохраняешь карту с заметками о том, что узнал, и берёшь на себя часть нового плана. Другой волонтёр сможет вернуться к карте, когда появится время.",
+              "reflection": "Что помогает отложить завершённую работу и сохранить полученный опыт?"
+            }
+          },
+          "choices": []
+        }
+      ]
+    },
+    {
+      "id": "story-phone-at-the-table",
+      "kind": "story",
+      "palette": "amber",
+      "contentVersion": 1,
+      "minutes": 3,
+      "start": "opening",
+      "flags": [],
+      "translations": {
+        "en": {
+          "title": "A phone on the table",
+          "summary": "A dinner with friends goes quiet when everyone reaches for a screen.",
+          "tags": [
+            "choice",
+            "reflection"
+          ]
+        },
+        "ru": {
+          "title": "Телефон на столе",
+          "summary": "Ужин с друзьями вдруг затихает: каждый тянется к экрану.",
+          "tags": [
+            "выбор",
+            "размышление"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "A phone on the table",
+              "body": "You have been looking forward to dinner for weeks. Five minutes after the food arrives, someone checks a message. Then two more screens light up. A friend keeps talking but stops halfway through a sentence."
+            },
+            "ru": {
+              "title": "Телефон на столе",
+              "body": "Ты ждал этого ужина несколько недель. Через пять минут после подачи блюд кто-то проверяет сообщение. Потом загораются ещё два экрана. Друг продолжает говорить, но замолкает на полуслове."
+            }
+          },
+          "choices": [
+            {
+              "id": "choice-1",
+              "next": "ending-1",
+              "labels": {
+                "en": {
+                  "label": "Ask your friend to finish the story"
+                },
+                "ru": {
+                  "label": "Попросить друга закончить рассказ"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "next": "ending-2",
+              "labels": {
+                "en": {
+                  "label": "Suggest setting the phones aside for a while"
+                },
+                "ru": {
+                  "label": "Предложить ненадолго отложить телефоны"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "next": "ending-3",
+              "labels": {
+                "en": {
+                  "label": "Wait and bring it up afterwards"
+                },
+                "ru": {
+                  "label": "Подождать и поговорить об этом после ужина"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "ending-1",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "The story returns",
+              "body": "Your friend smiles and starts from the part you missed. Someone turns a phone face down. The conversation returns gradually, without any announcement.",
+              "reflection": "What kind of small gesture brings you back into a conversation?"
+            },
+            "ru": {
+              "title": "Рассказ продолжается",
+              "body": "Друг улыбается и повторяет то, что ты пропустил. Кто-то переворачивает телефон экраном вниз. Разговор постепенно возвращается.",
+              "reflection": "Какой небольшой жест помогает тебе вернуться в разговор?"
+            }
+          }
+        },
+        {
+          "id": "ending-2",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "A pause together",
+              "body": "One friend has to keep a phone close. The others agree to a short screen break. Making one exception changes the tone from rule-making to a shared choice.",
+              "reflection": "How could you ask for attention while leaving room for exceptions?"
+            },
+            "ru": {
+              "title": "Общая пауза",
+              "body": "Одному из друзей нужно держать телефон рядом. Остальные ненадолго откладывают свои. Исключение помогает договориться, не превращая просьбу в правило для всех.",
+              "reflection": "Как попросить внимания, оставляя другим возможность сделать исключение?"
+            }
+          }
+        },
+        {
+          "id": "ending-3",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "On the way home",
+              "body": "On the walk home your friend says they thought you were bored. You tell them you wanted to hear the end. You make a plan to meet one-on-one next week.",
+              "reflection": "When is it easier for you to bring up a small disappointment?"
+            },
+            "ru": {
+              "title": "По дороге домой",
+              "body": "По дороге домой друг говорит, что решил, будто тебе скучно. Ты объясняешь, что хотел услышать конец, и вы договариваетесь встретиться вдвоём.",
+              "reflection": "Когда тебе проще говорить о небольшом разочаровании?"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-open-door",
+      "kind": "story",
+      "palette": "dusk",
+      "contentVersion": 1,
+      "minutes": 3,
+      "start": "opening",
+      "flags": [],
+      "translations": {
+        "en": {
+          "title": "The open door",
+          "summary": "A neighbour asks for a favour on the evening you set aside for yourself.",
+          "tags": [
+            "choice",
+            "reflection"
+          ]
+        },
+        "ru": {
+          "title": "Открытая дверь",
+          "summary": "Сосед просит о помощи в вечер, который ты оставил для себя.",
+          "tags": [
+            "выбор",
+            "размышление"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "The open door",
+              "body": "Your neighbour is moving furniture and asks whether you could help for an hour. You have kept this evening free after a difficult week. The boxes are already in the hallway."
+            },
+            "ru": {
+              "title": "Открытая дверь",
+              "body": "Сосед передвигает мебель и просит помочь на час. Ты оставил этот вечер свободным после тяжёлой недели. Коробки уже стоят в коридоре."
+            }
+          },
+          "choices": [
+            {
+              "id": "choice-1",
+              "next": "ending-1",
+              "labels": {
+                "en": {
+                  "label": "Offer fifteen minutes"
+                },
+                "ru": {
+                  "label": "Предложить пятнадцать минут"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "next": "ending-2",
+              "labels": {
+                "en": {
+                  "label": "Ask if tomorrow would work"
+                },
+                "ru": {
+                  "label": "Спросить, подойдёт ли завтра"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "next": "ending-3",
+              "labels": {
+                "en": {
+                  "label": "Decline and suggest another way"
+                },
+                "ru": {
+                  "label": "Отказать и предложить другой выход"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "ending-1",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "A short visit",
+              "body": "You help with the heaviest box and leave on time. The neighbour had thought everything needed to move tonight. With the big one done, the rest can wait.",
+              "reflection": "Have you ever offered a smaller amount of help that was still enough?"
+            },
+            "ru": {
+              "title": "Короткая помощь",
+              "body": "Ты помогаешь с самой тяжёлой коробкой и уходишь вовремя. Сосед думал, что сегодня нужно перенести всё. После тяжёлой коробки остальное может подождать.",
+              "reflection": "Было ли так, что меньшей помощи всё-таки хватило?"
+            }
+          }
+        },
+        {
+          "id": "ending-2",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "Tomorrow morning",
+              "body": "Tomorrow works. The neighbour borrows a trolley tonight and you have the evening to yourself. In the morning you finish the work together.",
+              "reflection": "Which requests feel different once the time changes?"
+            },
+            "ru": {
+              "title": "Завтра утром",
+              "body": "Завтра подходит. Сосед берёт тележку, а у тебя остаётся свободный вечер. Утром вы заканчиваете вместе.",
+              "reflection": "Какие просьбы воспринимаются иначе, если поменять время?"
+            }
+          }
+        },
+        {
+          "id": "ending-3",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "Another pair of hands",
+              "body": "You say you cannot help today and ask if they have contacted the building group. Someone nearby replies and the boxes move before dinner. You wave from your door.",
+              "reflection": "What makes it easier to give a clear answer?"
+            },
+            "ru": {
+              "title": "Другая пара рук",
+              "body": "Ты говоришь, что сегодня не можешь помочь, и спрашиваешь про чат дома. Откликается другой сосед. Коробки уносят до ужина, ты машешь из дверей.",
+              "reflection": "Что помогает ответить ясно?"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "alter-a-room-of-your-own",
+      "kind": "alter",
+      "palette": "ocean",
+      "contentVersion": 1,
+      "minutes": 3,
+      "start": "opening",
+      "flags": [],
+      "translations": {
+        "en": {
+          "title": "A room of your own",
+          "summary": "Imagine finding an empty room in a city that still feels new.",
+          "tags": [
+            "choice",
+            "reflection"
+          ]
+        },
+        "ru": {
+          "title": "Комната для себя",
+          "summary": "Представь, что находишь пустую комнату в городе, к которому ещё не привык.",
+          "tags": [
+            "выбор",
+            "размышление"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "A room of your own",
+              "body": "You have moved and found a room with two windows. It is inexpensive and almost empty. The owner says you can use it for six months. By tonight, you have to decide what to do with it."
+            },
+            "ru": {
+              "title": "Комната для себя",
+              "body": "Ты переехал и нашёл недорогую комнату с двумя окнами. Внутри почти ничего нет. Хозяин готов сдать её на полгода. К вечеру нужно решить, как её использовать."
+            }
+          },
+          "choices": [
+            {
+              "id": "choice-1",
+              "next": "ending-1",
+              "labels": {
+                "en": {
+                  "label": "Make it a studio for yourself"
+                },
+                "ru": {
+                  "label": "Устроить мастерскую для себя"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "next": "ending-2",
+              "labels": {
+                "en": {
+                  "label": "Invite people to share it"
+                },
+                "ru": {
+                  "label": "Предложить людям делить её"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "next": "ending-3",
+              "labels": {
+                "en": {
+                  "label": "Keep the arrangement flexible"
+                },
+                "ru": {
+                  "label": "Оставить себе пространство для перемен"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "ending-1",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "Morning light",
+              "body": "You put a table near the window. Most weeks the room is empty until Saturday, when you go there for two quiet hours. Over time you start to protect those hours.",
+              "reflection": "What would grow if you gave it a place of its own?"
+            },
+            "ru": {
+              "title": "Утренний свет",
+              "body": "Ты ставишь стол у окна. Комната обычно пустует, пока в субботу ты не приходишь туда на два тихих часа. Со временем эти часы становятся важными.",
+              "reflection": "Что могло бы вырасти, если дать этому своё место?"
+            }
+          }
+        },
+        {
+          "id": "ending-2",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "Two sets of keys",
+              "body": "A neighbour brings a lamp and you share the rent. Some sessions become convivial, others are harder to coordinate. You agree on one morning each when the room belongs to one person.",
+              "reflection": "Which parts of a shared space would you want to agree on in advance?"
+            },
+            "ru": {
+              "title": "Два комплекта ключей",
+              "body": "Сосед приносит лампу, и вы делите аренду. Иногда работать вместе приятно, иногда расписания сложно согласовать. У каждого появляется утро, когда комната только его.",
+              "reflection": "О чём в общем пространстве тебе важно договориться заранее?"
+            }
+          }
+        },
+        {
+          "id": "ending-3",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "A shorter lease",
+              "body": "You ask to rent for one month. The owner agrees. At the end of it you find that you liked the light and the quiet more than the address. That makes the next search easier.",
+              "reflection": "What could a small trial teach you before a longer commitment?"
+            },
+            "ru": {
+              "title": "Короткая аренда",
+              "body": "Ты просишь снять комнату на месяц. Хозяин соглашается. В конце месяца ты понимаешь, что важнее всего были свет и тишина. Теперь искать дальше проще.",
+              "reflection": "Чему может научить короткая проба до того, как брать обязательство надолго?"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "alter-another-calendar",
+      "kind": "alter",
+      "palette": "amber",
+      "contentVersion": 1,
+      "minutes": 3,
+      "start": "opening",
+      "flags": [],
+      "translations": {
+        "en": {
+          "title": "Another calendar",
+          "summary": "A fictional year with fewer commitments and a little less certainty.",
+          "tags": [
+            "choice",
+            "reflection"
+          ]
+        },
+        "ru": {
+          "title": "Другой календарь",
+          "summary": "Вымышленный год с меньшим числом обязательств и чуть меньшей определённостью.",
+          "tags": [
+            "выбор",
+            "размышление"
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "opening",
+          "translations": {
+            "en": {
+              "title": "Another calendar",
+              "body": "A reliable contract ends a month earlier than planned. You have enough savings to make a deliberate choice. When you open your calendar, the blank spaces feel unfamiliar."
+            },
+            "ru": {
+              "title": "Другой календарь",
+              "body": "Привычный контракт заканчивается на месяц раньше, чем ты думал. Сбережений достаточно, чтобы решить без спешки. Пустые строки ежедневника выглядят непривычно."
+            }
+          },
+          "choices": [
+            {
+              "id": "choice-1",
+              "next": "ending-1",
+              "labels": {
+                "en": {
+                  "label": "Make one fixed workday and protect the rest"
+                },
+                "ru": {
+                  "label": "Оставить один рабочий день, остальное сохранить свободным"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "next": "ending-2",
+              "labels": {
+                "en": {
+                  "label": "Build a short project with someone else"
+                },
+                "ru": {
+                  "label": "Начать короткий проект с другим человеком"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "next": "ending-3",
+              "labels": {
+                "en": {
+                  "label": "Rest first, then decide"
+                },
+                "ru": {
+                  "label": "Сначала отдохнуть, потом решить"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "ending-1",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "The fixed day",
+              "body": "The fixed day gives the week a centre. Other mornings make room for errands, reading and sometimes boredom. Once a month you check what the balance costs and what it gives you.",
+              "reflection": "Which commitment gives your week a useful shape?"
+            },
+            "ru": {
+              "title": "Один постоянный день",
+              "body": "Постоянный день даёт неделе опору. В другие дни помещаются дела, чтение и иногда скука. Раз в месяц ты проверяешь, чего стоит этот баланс и что он даёт.",
+              "reflection": "Какое обязательство придаёт твоей неделе удобную форму?"
+            }
+          }
+        },
+        {
+          "id": "ending-2",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "A shared project",
+              "body": "You and a friend try a three-week project. The first draft is smaller than you imagined and it is ready earlier. You decide to finish it before discussing what comes next.",
+              "reflection": "Who helps you keep new ideas the right size?"
+            },
+            "ru": {
+              "title": "Совместное дело",
+              "body": "Ты с другом пробуешь проект на три недели. Первый черновик выходит скромнее задуманного, зато готов раньше. Вы решаете закончить его, прежде чем обсуждать будущее.",
+              "reflection": "С кем у тебя получается не раздувать новые идеи?"
+            }
+          }
+        },
+        {
+          "id": "ending-3",
+          "choices": [],
+          "translations": {
+            "en": {
+              "title": "A week without a plan",
+              "body": "You give yourself seven days. The first two feel slow, then you notice you have started making breakfast again. At the end you write down what you want from the next contract.",
+              "reflection": "What tends to surface when you give yourself a quieter week?"
+            },
+            "ru": {
+              "title": "Неделя без плана",
+              "body": "Ты даёшь себе семь дней. Первые два тянутся, потом ты замечаешь, что снова готовишь себе завтрак. В конце недели записываешь, чего хочешь от следующего контракта.",
+              "reflection": "Что становится заметнее, когда у тебя есть спокойная неделя?"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-focus-rhythm",
+      "contentVersion": 2,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "category": "habits",
+      "source": "Neyvori Studio · Original reflection exercise / Авторское упражнение",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "Rhythm of focus",
+          "purpose": "Think about how you settle into a task and what helps you return when something interrupts it.",
+          "method": "Think of the past week. The questions look at two everyday habits: starting a task and picking it up again.",
+          "limitations": "Use this as a snapshot of the week you recall. Your answers can change with sleep, deadlines and the people around you.",
+          "reflection": "What helped you come back to a task this week?",
+          "recommendation": "Before a break, leave yourself a one-line note about what to do next. See whether it makes returning easier.",
+          "tags": [
+            "focus",
+            "attention",
+            "habits",
+            "work"
+          ]
+        },
+        "ru": {
+          "title": "Ритм внимания",
+          "purpose": "Вспомни, как ты начинаешь дела и что помогает вернуться к ним после отвлечения.",
+          "method": "Вспомни последнюю неделю. Вопросы касаются двух повседневных привычек: начать дело и вернуться к нему.",
+          "limitations": "Ответы описывают выбранную неделю. На них могут влиять сон, сроки и обстановка.",
+          "reflection": "Что на этой неделе помогло тебе вернуться к делу?",
+          "recommendation": "Перед перерывом оставь себе записку с одним следующим действием. Заметь, стало ли проще вернуться.",
+          "tags": [
+            "внимание",
+            "сосредоточенность",
+            "привычки",
+            "работа"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "starting-point",
+          "kind": "likert",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Before starting, I usually knew what I would do first."
+            },
+            "ru": {
+              "prompt": "Перед началом я обычно понимал, что сделаю первым."
+            }
+          }
+        },
+        {
+          "id": "important-task",
+          "kind": "likert",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "When I had several things to do, I could choose what mattered most."
+            },
+            "ru": {
+              "prompt": "Когда дел было несколько, я мог выбрать главное."
+            }
+          }
+        },
+        {
+          "id": "quiet-start",
+          "kind": "likert",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "When a task mattered, I found a moment when interruptions were less likely."
+            },
+            "ru": {
+              "prompt": "Для важного дела я находил время, когда меня меньше отвлекали."
+            }
+          }
+        },
+        {
+          "id": "return-marker",
+          "kind": "likert",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "After a break, something helped me remember where I had stopped."
+            },
+            "ru": {
+              "prompt": "После перерыва мне что-то помогало вспомнить, на чём я остановился."
+            }
+          }
+        },
+        {
+          "id": "drifting",
+          "kind": "likert",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "When I was interrupted, I often moved on to something else and left the first task unfinished."
+            },
+            "ru": {
+              "prompt": "Если меня отвлекали, я часто переходил к другому делу и оставлял первое незавершённым."
+            }
+          }
+        }
+      ],
+      "scales": [
+        {
+          "id": "planning",
+          "translations": {
+            "en": {
+              "label": "Starting with a plan"
+            },
+            "ru": {
+              "label": "Начало с планом"
+            }
+          },
+          "minimumCoverage": 65,
+          "items": [
+            {
+              "question": "starting-point",
+              "weight": 2,
+              "reverse": false
+            },
+            {
+              "question": "important-task",
+              "weight": 1,
+              "reverse": false
+            },
+            {
+              "question": "quiet-start",
+              "weight": 1,
+              "reverse": false
+            }
+          ],
+          "bands": [
+            {
+              "through": 33,
+              "translations": {
+                "en": {
+                  "label": "Less often in this period",
+                  "explanation": "Your responses described fewer of the listed actions. Find one situation where a small change would be practical."
+                },
+                "ru": {
+                  "label": "Реже в этот период",
+                  "explanation": "В ответах описано меньше действий из этой шкалы. Выбери одну ситуацию, в которой можно сделать небольшой шаг."
+                }
+              }
+            },
+            {
+              "through": 66,
+              "translations": {
+                "en": {
+                  "label": "Varies by situation",
+                  "explanation": "Some actions seem easier to use than others. Notice what changes when the context changes."
+                },
+                "ru": {
+                  "label": "Зависит от ситуации",
+                  "explanation": "Одни действия даются проще, чем другие. Обрати внимание, что меняется вместе с обстоятельствами."
+                }
+              }
+            },
+            {
+              "through": 100,
+              "translations": {
+                "en": {
+                  "label": "More often in this period",
+                  "explanation": "You described using several of these actions. Recall a concrete example and what made it possible."
+                },
+                "ru": {
+                  "label": "Чаще в этот период",
+                  "explanation": "Ты описал несколько действий из этой шкалы. Вспомни конкретный пример и что помогло так поступить."
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "returning",
+          "translations": {
+            "en": {
+              "label": "Returning after a pause"
+            },
+            "ru": {
+              "label": "Возвращение после паузы"
+            }
+          },
+          "minimumCoverage": 100,
+          "items": [
+            {
+              "question": "return-marker",
+              "weight": 1,
+              "reverse": false
+            },
+            {
+              "question": "drifting",
+              "weight": 1,
+              "reverse": true
+            }
+          ],
+          "bands": [
+            {
+              "through": 33,
+              "translations": {
+                "en": {
+                  "label": "Less often in this period",
+                  "explanation": "Your responses described fewer of the listed actions. Find one situation where a small change would be practical."
+                },
+                "ru": {
+                  "label": "Реже в этот период",
+                  "explanation": "В ответах описано меньше действий из этой шкалы. Выбери одну ситуацию, в которой можно сделать небольшой шаг."
+                }
+              }
+            },
+            {
+              "through": 66,
+              "translations": {
+                "en": {
+                  "label": "Varies by situation",
+                  "explanation": "Some actions seem easier to use than others. Notice what changes when the context changes."
+                },
+                "ru": {
+                  "label": "Зависит от ситуации",
+                  "explanation": "Одни действия даются проще, чем другие. Обрати внимание, что меняется вместе с обстоятельствами."
+                }
+              }
+            },
+            {
+              "through": 100,
+              "translations": {
+                "en": {
+                  "label": "More often in this period",
+                  "explanation": "You described using several of these actions. Recall a concrete example and what made it possible."
+                },
+                "ru": {
+                  "label": "Чаще в этот период",
+                  "explanation": "Ты описал несколько действий из этой шкалы. Вспомни конкретный пример и что помогло так поступить."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assessment-space-for-boundaries",
+      "contentVersion": 2,
+      "scoringVersion": 1,
+      "minutes": 5,
+      "category": "relationships",
+      "source": "Neyvori Studio · Original reflection exercise / Авторское упражнение",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "Room for boundaries",
+          "purpose": "Think of the last time someone asked for more than you could give.",
+          "method": "Choose a setting and recall a real request. The questions explore how you noticed the limit and what you said.",
+          "limitations": "The replies describe one setting and a period of your life. What feels possible can change with the people and circumstances.",
+          "reflection": "Which phrase would buy you time to answer a request thoughtfully?",
+          "recommendation": "Write a sentence that asks for time to reply and try it in a low-stakes situation.",
+          "tags": [
+            "boundaries",
+            "relationships",
+            "communication",
+            "conflict"
+          ]
+        },
+        "ru": {
+          "title": "Место для границ",
+          "purpose": "Вспомни, когда тебя в последний раз просили о большем, чем ты мог предложить.",
+          "method": "Выбери обстановку и вспомни реальную просьбу. Вопросы помогут заметить, когда ты понял, что у тебя есть предел, и что ответил.",
+          "limitations": "Ответы относятся к конкретной обстановке и периоду. То, что тебе доступно, может меняться в зависимости от людей и обстоятельств.",
+          "reflection": "Какая фраза даст тебе время обдумать ответ на просьбу?",
+          "recommendation": "Запиши фразу, которой можно попросить время на ответ, и попробуй её в ситуации с невысокими ставками.",
+          "tags": [
+            "границы",
+            "отношения",
+            "общение",
+            "конфликт"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "setting",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Where did that request come up?"
+            },
+            "ru": {
+              "prompt": "Где прозвучала просьба?"
+            }
+          },
+          "options": [
+            {
+              "id": "work",
+              "translations": {
+                "en": {
+                  "label": "At work or while studying"
+                },
+                "ru": {
+                  "label": "На работе или учёбе"
+                }
+              }
+            },
+            {
+              "id": "close",
+              "translations": {
+                "en": {
+                  "label": "With friends or family"
+                },
+                "ru": {
+                  "label": "С друзьями или семьёй"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "work-note",
+          "kind": "text",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "What kind of request feels difficult to answer at work or school?"
+            },
+            "ru": {
+              "prompt": "На какие просьбы сложно отвечать на работе или учёбе?"
+            }
+          },
+          "showIf": {
+            "question": "setting",
+            "option": "work"
+          }
+        },
+        {
+          "id": "close-note",
+          "kind": "text",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "What makes a request feel difficult among people close to you?"
+            },
+            "ru": {
+              "prompt": "Из-за чего бывает сложно ответить на просьбу близкого человека?"
+            }
+          },
+          "showIf": {
+            "question": "setting",
+            "option": "close"
+          }
+        },
+        {
+          "id": "notice",
+          "kind": "likert",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "I realised when a request would take more time than I had."
+            },
+            "ru": {
+              "prompt": "Я замечал, когда на просьбу уйдёт больше времени, чем у меня есть."
+            }
+          }
+        },
+        {
+          "id": "pause",
+          "kind": "likert",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "I asked for time to think before giving an answer."
+            },
+            "ru": {
+              "prompt": "Я просил время подумать, прежде чем ответить."
+            }
+          }
+        },
+        {
+          "id": "clarity",
+          "kind": "slider",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "How clear was it to you what you could agree to?",
+              "help": "0 means entirely unclear; 100 means entirely clear."
+            },
+            "ru": {
+              "prompt": "Насколько ясно ты понимал, на что можешь согласиться?",
+              "help": "0 — совсем непонятно, 100 — полностью понятно."
+            }
+          }
+        },
+        {
+          "id": "state-limit",
+          "kind": "likert",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "I said what I could realistically do."
+            },
+            "ru": {
+              "prompt": "Я говорил, что реально могу сделать."
+            }
+          }
+        },
+        {
+          "id": "assumed",
+          "kind": "likert",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "I expected the other person to guess what I had time for."
+            },
+            "ru": {
+              "prompt": "Я ожидал, что другой человек сам поймёт, на что у меня есть время."
+            }
+          }
+        }
+      ],
+      "scales": [
+        {
+          "id": "noticing",
+          "translations": {
+            "en": {
+              "label": "Noticing your limits"
+            },
+            "ru": {
+              "label": "Понимание своих границ"
+            }
+          },
+          "minimumCoverage": 65,
+          "items": [
+            {
+              "question": "notice",
+              "weight": 1,
+              "reverse": false
+            },
+            {
+              "question": "pause",
+              "weight": 1,
+              "reverse": false
+            },
+            {
+              "question": "clarity",
+              "weight": 1,
+              "reverse": false
+            }
+          ],
+          "bands": [
+            {
+              "through": 33,
+              "translations": {
+                "en": {
+                  "label": "Less often in this period",
+                  "explanation": "Your responses described fewer of the listed actions. Find one situation where a small change would be practical."
+                },
+                "ru": {
+                  "label": "Реже в этот период",
+                  "explanation": "В ответах описано меньше действий из этой шкалы. Выбери одну ситуацию, в которой можно сделать небольшой шаг."
+                }
+              }
+            },
+            {
+              "through": 66,
+              "translations": {
+                "en": {
+                  "label": "Varies by situation",
+                  "explanation": "Some actions seem easier to use than others. Notice what changes when the context changes."
+                },
+                "ru": {
+                  "label": "Зависит от ситуации",
+                  "explanation": "Одни действия даются проще, чем другие. Обрати внимание, что меняется вместе с обстоятельствами."
+                }
+              }
+            },
+            {
+              "through": 100,
+              "translations": {
+                "en": {
+                  "label": "More often in this period",
+                  "explanation": "You described using several of these actions. Recall a concrete example and what made it possible."
+                },
+                "ru": {
+                  "label": "Чаще в этот период",
+                  "explanation": "Ты описал несколько действий из этой шкалы. Вспомни конкретный пример и что помогло так поступить."
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "communicating",
+          "translations": {
+            "en": {
+              "label": "Communicating your limits"
+            },
+            "ru": {
+              "label": "Разговор о границах"
+            }
+          },
+          "minimumCoverage": 100,
+          "items": [
+            {
+              "question": "state-limit",
+              "weight": 1,
+              "reverse": false
+            },
+            {
+              "question": "assumed",
+              "weight": 1,
+              "reverse": true
+            }
+          ],
+          "bands": [
+            {
+              "through": 33,
+              "translations": {
+                "en": {
+                  "label": "Less often in this period",
+                  "explanation": "Your responses described fewer of the listed actions. Find one situation where a small change would be practical."
+                },
+                "ru": {
+                  "label": "Реже в этот период",
+                  "explanation": "В ответах описано меньше действий из этой шкалы. Выбери одну ситуацию, в которой можно сделать небольшой шаг."
+                }
+              }
+            },
+            {
+              "through": 66,
+              "translations": {
+                "en": {
+                  "label": "Varies by situation",
+                  "explanation": "Some actions seem easier to use than others. Notice what changes when the context changes."
+                },
+                "ru": {
+                  "label": "Зависит от ситуации",
+                  "explanation": "Одни действия даются проще, чем другие. Обрати внимание, что меняется вместе с обстоятельствами."
+                }
+              }
+            },
+            {
+              "through": 100,
+              "translations": {
+                "en": {
+                  "label": "More often in this period",
+                  "explanation": "You described using several of these actions. Recall a concrete example and what made it possible."
+                },
+                "ru": {
+                  "label": "Чаще в этот период",
+                  "explanation": "Ты описал несколько действий из этой шкалы. Вспомни конкретный пример и что помогло так поступить."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assessment-values-in-action",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "category": "personalValues",
+      "source": "Neyvori Studio · Original reflection exercise / Авторское упражнение",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "Values in action",
+          "purpose": "Put a few priorities in order and connect them to one decision you are facing.",
+          "method": "The exercise uses a ranking, a paired choice and a note. Your answers stay in their original form. The result collects prompts for reflection.",
+          "limitations": "Priorities change with the circumstances. This exercise provides a snapshot and no scores or diagnosis.",
+          "reflection": "Which value showed up in your last small decision, and how could you tell?",
+          "recommendation": "Write two ways to act on your chosen priority this week. Start with the one you can reverse.",
+          "tags": [
+            "values",
+            "decisions",
+            "self-discovery"
+          ]
+        },
+        "ru": {
+          "title": "Ценности в действии",
+          "purpose": "Расставь несколько приоритетов и свяжи их с решением, которое тебе предстоит.",
+          "method": "В упражнении есть упорядочивание, выбор из пары и заметка. Ответы сохраняются в исходном виде. В результате собраны вопросы для размышления.",
+          "limitations": "Приоритеты меняются с обстоятельствами. Упражнение помогает описать один момент. Баллы и диагнозы не предусмотрены.",
+          "reflection": "Какая ценность проявилась в твоём последнем небольшом решении? По чему ты это понял?",
+          "recommendation": "Запиши два способа действовать в соответствии с выбранным приоритетом на этой неделе. Начни с шага, который можно отменить.",
+          "tags": [
+            "ценности",
+            "решения",
+            "самопознание"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "order",
+          "kind": "ranking",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which priorities matter most for this decision?",
+              "help": "Place the most relevant one first."
+            },
+            "ru": {
+              "prompt": "Какие приоритеты важнее именно для этого решения?",
+              "help": "Поставь самый важный в этой ситуации приоритет на первое место."
+            }
+          },
+          "options": [
+            {
+              "id": "freedom",
+              "translations": {
+                "en": {
+                  "label": "Freedom to choose"
+                },
+                "ru": {
+                  "label": "Свобода выбора"
+                }
+              }
+            },
+            {
+              "id": "care",
+              "translations": {
+                "en": {
+                  "label": "Care for others"
+                },
+                "ru": {
+                  "label": "Забота о других"
+                }
+              }
+            },
+            {
+              "id": "stability",
+              "translations": {
+                "en": {
+                  "label": "Stability"
+                },
+                "ru": {
+                  "label": "Стабильность"
+                }
+              }
+            },
+            {
+              "id": "growth",
+              "translations": {
+                "en": {
+                  "label": "Learning"
+                },
+                "ru": {
+                  "label": "Возможность учиться"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "choice",
+          "kind": "pairwise",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which next step fits the decision better?"
+            },
+            "ru": {
+              "prompt": "Какой следующий шаг больше подходит к решению?"
+            }
+          },
+          "options": [
+            {
+              "id": "try",
+              "translations": {
+                "en": {
+                  "label": "Run a small trial"
+                },
+                "ru": {
+                  "label": "Провести небольшую пробу"
+                }
+              }
+            },
+            {
+              "id": "talk",
+              "translations": {
+                "en": {
+                  "label": "Ask for a different point of view"
+                },
+                "ru": {
+                  "label": "Узнать другую точку зрения"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "next",
+          "kind": "text",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "What will you actually try?"
+            },
+            "ru": {
+              "prompt": "Что ты попробуешь на деле?"
+            }
+          }
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-attention-gallery",
+      "category": "selfDiscovery",
+      "contentVersion": 2,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "A day that feels like yours",
+          "purpose": "Notice which details make a day feel restorative.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "Which detail from that day could you make room for this week?",
+          "recommendation": "Choose something you can try for a few minutes. See whether it leaves you wanting more or whether another detail fits better.",
+          "tags": [
+            "reflection",
+            "selfDiscovery"
+          ]
+        },
+        "ru": {
+          "title": "День для себя",
+          "purpose": "Заметь, какие детали помогают тебе выдохнуть.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "Для какой детали из этого дня можно найти место уже на неделе?",
+          "recommendation": "Выбери то, на что хватит нескольких минут. После этого заметь, хочется ли продолжить или лучше попробовать другое.",
+          "tags": [
+            "размышление",
+            "день для себя"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "landscape",
+          "kind": "image",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which place would help you catch your breath?"
+            },
+            "ru": {
+              "prompt": "В каком месте тебе было бы легче выдохнуть?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "A valley at sunrise"
+                },
+                "ru": {
+                  "label": "Долина на рассвете"
+                }
+              },
+              "visual": "dawn"
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "A lake beside a forest"
+                },
+                "ru": {
+                  "label": "Лесное озеро"
+                }
+              },
+              "visual": "forest"
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Mountains after dark"
+                },
+                "ru": {
+                  "label": "Горы под звёздами"
+                }
+              },
+              "visual": "night"
+            }
+          ]
+        },
+        {
+          "id": "company",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Who would you like to share that time with?"
+            },
+            "ru": {
+              "prompt": "С кем тебе хотелось бы провести это время?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "I would stay on my own"
+                },
+                "ru": {
+                  "label": "Побыть наедине с собой"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "One person I trust"
+                },
+                "ru": {
+                  "label": "С близким человеком"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "A small group of friends"
+                },
+                "ru": {
+                  "label": "С небольшой компанией"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "pace",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What rhythm would suit you that day?"
+            },
+            "ru": {
+              "prompt": "Какой ритм подошёл бы тебе в этот день?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Take each hour as it comes"
+                },
+                "ru": {
+                  "label": "Решать по ходу дня"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Have one thing to look forward to"
+                },
+                "ru": {
+                  "label": "Запланировать одно приятное дело"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Make a plan and leave time between things"
+                },
+                "ru": {
+                  "label": "Наметить несколько дел с паузами"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "detail",
+          "kind": "multiple",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What would make the day feel more like yours?"
+            },
+            "ru": {
+              "prompt": "Что сделало бы этот день по-настоящему твоим?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "A meal I enjoy"
+                },
+                "ru": {
+                  "label": "Любимая еда"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Time out of the house"
+                },
+                "ru": {
+                  "label": "Время вне дома"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Something to make with my hands"
+                },
+                "ru": {
+                  "label": "Занятие руками"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "A conversation without hurry"
+                },
+                "ru": {
+                  "label": "Неспешный разговор"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-money-choices",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 3,
+      "category": "finances",
+      "source": "Neyvori Studio · Original reflection exercise / Авторское упражнение",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "A spending choice",
+          "purpose": "Look at one everyday purchase through the lens of needs, priorities and time.",
+          "method": "Three questions guide a reflection on an ordinary purchase. Answers are saved locally in their original form and carry no points.",
+          "limitations": "This activity is educational and offers no financial advice or assessment of your situation.",
+          "reflection": "What would still matter about this choice after a week?",
+          "recommendation": "Write down the need you want to meet and one alternative. Compare both against what matters to you.",
+          "tags": [
+            "money",
+            "values",
+            "decision"
+          ]
+        },
+        "ru": {
+          "title": "Выбор перед покупкой",
+          "purpose": "Посмотри на одну повседневную покупку через потребности, приоритеты и время.",
+          "method": "Три вопроса помогают обдумать обычную покупку. Ответы сохраняются на устройстве в исходном виде. Баллы не начисляются.",
+          "limitations": "Это учебная практика. Она не даёт финансовых рекомендаций и не оценивает твою ситуацию.",
+          "reflection": "Что в этом выборе останется важным через неделю?",
+          "recommendation": "Запиши потребность, которую хочешь удовлетворить, и один другой способ. Сравни оба варианта со своим приоритетом.",
+          "tags": [
+            "деньги",
+            "ценности",
+            "решение"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "need",
+          "kind": "text",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which need would this purchase meet?"
+            },
+            "ru": {
+              "prompt": "Какую потребность закрыла бы покупка?"
+            }
+          }
+        },
+        {
+          "id": "options",
+          "kind": "multiple",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What could make the decision clearer?"
+            },
+            "ru": {
+              "prompt": "Что помогло бы прояснить решение?"
+            }
+          },
+          "options": [
+            {
+              "id": "clarify",
+              "translations": {
+                "en": {
+                  "label": "Write down the reason"
+                },
+                "ru": {
+                  "label": "Записать причину"
+                }
+              }
+            },
+            {
+              "id": "wait",
+              "translations": {
+                "en": {
+                  "label": "Give myself time"
+                },
+                "ru": {
+                  "label": "Дать себе время"
+                }
+              }
+            },
+            {
+              "id": "compare",
+              "translations": {
+                "en": {
+                  "label": "Look at another option"
+                },
+                "ru": {
+                  "label": "Посмотреть другой вариант"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "check",
+          "kind": "slider",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "How clear is your reason now?"
+            },
+            "ru": {
+              "prompt": "Насколько понятно тебе собственное решение сейчас?"
+            }
+          }
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-energy-weather",
+      "category": "emotions",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "What restores you",
+          "purpose": "Look at a recent day when your energy shifted.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "What early sign tells you that you need a pause?",
+          "recommendation": "Try taking a brief pause at the first sign you recognised. See what changes when you make room for it earlier.",
+          "tags": [
+            "reflection",
+            "emotions"
+          ]
+        },
+        "ru": {
+          "title": "Что возвращает силы",
+          "purpose": "Вспомни день, когда сил вдруг стало больше или меньше.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "По какому раннему признаку ты можешь заметить, что пора сделать паузу?",
+          "recommendation": "Попробуй сделать короткую паузу при первом знакомом признаке. Посмотри, что меняется, если не ждать конца дня.",
+          "tags": [
+            "размышление",
+            "что возвращает силы"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "shift",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "When did you notice the change?"
+            },
+            "ru": {
+              "prompt": "Когда ты заметил перемену?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Before the day got busy"
+                },
+                "ru": {
+                  "label": "До начала дел"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "In the middle of a demanding task"
+                },
+                "ru": {
+                  "label": "Посреди трудного дела"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "After speaking with someone"
+                },
+                "ru": {
+                  "label": "После разговора"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "When the day finally slowed down"
+                },
+                "ru": {
+                  "label": "Когда день наконец замедлился"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "first-sign",
+          "kind": "multiple",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What did you notice first?"
+            },
+            "ru": {
+              "prompt": "Что ты заметил первым?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "I kept putting off the next thing"
+                },
+                "ru": {
+                  "label": "Я откладывал следующее дело"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "It became harder to listen"
+                },
+                "ru": {
+                  "label": "Стало труднее слушать"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "I felt tension in my body"
+                },
+                "ru": {
+                  "label": "В теле появилось напряжение"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "I wanted to be somewhere quieter"
+                },
+                "ru": {
+                  "label": "Захотелось тишины"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "help",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What helped even a little?"
+            },
+            "ru": {
+              "prompt": "Что помогло хотя бы немного?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Moving or going outside"
+                },
+                "ru": {
+                  "label": "Движение или выход на улицу"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Getting something off my mind"
+                },
+                "ru": {
+                  "label": "Возможность выговориться"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Food, water, or a pause"
+                },
+                "ru": {
+                  "label": "Еда, вода или пауза"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Having one fewer thing to do"
+                },
+                "ru": {
+                  "label": "То, что одно дело удалось снять с себя"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "tomorrow",
+          "kind": "text",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "What could you make easier for yourself tomorrow?"
+            },
+            "ru": {
+              "prompt": "Что ты можешь упростить для себя завтра?"
+            }
+          }
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-hard-conversation",
+      "category": "conflict",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "A conversation worth having",
+          "purpose": "Choose one topic you have been putting off.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "What would help you say the first sentence?",
+          "recommendation": "Choose a quiet moment and ask whether the other person has time. Start with the issue or request you selected.",
+          "tags": [
+            "reflection",
+            "conflict"
+          ]
+        },
+        "ru": {
+          "title": "Разговор, который стоит начать",
+          "purpose": "Выбери одну тему, которую ты откладываешь.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "Что поможет тебе произнести первую фразу?",
+          "recommendation": "Выбери спокойный момент и спроси, есть ли у человека время. Начни с темы или просьбы, которую выбрал.",
+          "tags": [
+            "размышление",
+            "разговор, который стоит начать"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "stakes",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What makes it hard to start?"
+            },
+            "ru": {
+              "prompt": "Почему трудно начать?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "I might be misunderstood"
+                },
+                "ru": {
+                  "label": "Меня могут понять неправильно"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "I do not know what I want yet"
+                },
+                "ru": {
+                  "label": "Я пока не понимаю, чего хочу"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "I fear that it will become an argument"
+                },
+                "ru": {
+                  "label": "Боюсь, что разговор превратится в спор"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "It never seems to be the right moment"
+                },
+                "ru": {
+                  "label": "Не находится подходящего момента"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "aim",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What would make the conversation worthwhile?"
+            },
+            "ru": {
+              "prompt": "Что сделало бы разговор полезным?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Understanding what happened"
+                },
+                "ru": {
+                  "label": "Понять, что произошло"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Being able to name how I felt"
+                },
+                "ru": {
+                  "label": "Сказать, что я чувствовал"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Agreeing on a small change"
+                },
+                "ru": {
+                  "label": "Договориться о небольшом изменении"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Knowing where we differ"
+                },
+                "ru": {
+                  "label": "Понять, в чём у нас разные взгляды"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "opening",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which opening feels natural?"
+            },
+            "ru": {
+              "prompt": "С какой фразы тебе проще начать?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Can we talk about what happened yesterday?"
+                },
+                "ru": {
+                  "label": "Можем поговорить о том, что было вчера?"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "I think I may have misunderstood you."
+                },
+                "ru": {
+                  "label": "Кажется, я мог понять тебя неправильно."
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "I would like us to try something different."
+                },
+                "ru": {
+                  "label": "Мне бы хотелось попробовать по-другому."
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "request",
+          "kind": "text",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "If you could ask for just one thing, what would it be?"
+            },
+            "ru": {
+              "prompt": "Если можно попросить об одном, о чём ты попросишь?"
+            }
+          }
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-closer-friendship",
+      "category": "relationships",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "Staying in touch",
+          "purpose": "Think of one friendship you want to give more attention.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "What do you miss about this connection?",
+          "recommendation": "Make one invitation that leaves the other person room to suggest a different time or place.",
+          "tags": [
+            "reflection",
+            "relationships"
+          ]
+        },
+        "ru": {
+          "title": "Как оставаться на связи",
+          "purpose": "Вспомни дружбу, которой тебе хочется уделить больше внимания.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "Чего тебе не хватает в этой дружбе?",
+          "recommendation": "Предложи одну конкретную встречу и оставь возможность выбрать другое время или место.",
+          "tags": [
+            "размышление",
+            "как оставаться на связи"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "change",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "When do you feel closest to this person?"
+            },
+            "ru": {
+              "prompt": "Когда ты чувствуешь себя особенно близко к этому человеку?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "When we do something together"
+                },
+                "ru": {
+                  "label": "Когда мы чем-то занимаемся вместе"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "When we can talk without pretending"
+                },
+                "ru": {
+                  "label": "Когда можно говорить открыто"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "When they remember a small detail"
+                },
+                "ru": {
+                  "label": "Когда человек помнит какую-то мелочь"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "When we can sit together in silence"
+                },
+                "ru": {
+                  "label": "Когда можно вместе помолчать"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "distance",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What has made it harder to keep in touch?"
+            },
+            "ru": {
+              "prompt": "Что мешает оставаться на связи?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Our routine has changed"
+                },
+                "ru": {
+                  "label": "Изменился привычный распорядок"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "I am waiting for them to be free"
+                },
+                "ru": {
+                  "label": "Я жду, когда у человека освободится время"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "We only talk about practical things"
+                },
+                "ru": {
+                  "label": "Мы говорим только о делах"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Nothing in particular; days just pass"
+                },
+                "ru": {
+                  "label": "Ничего особенного, просто дни пролетают"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "invite",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What would feel easy to suggest?"
+            },
+            "ru": {
+              "prompt": "Что тебе было бы легко предложить?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "A walk with no fixed agenda"
+                },
+                "ru": {
+                  "label": "Прогулку без особого плана"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "A short call"
+                },
+                "ru": {
+                  "label": "Короткий звонок"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Sharing something that reminded me of them"
+                },
+                "ru": {
+                  "label": "Переслать что-то, что напомнило о человеке"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "A meal we can make together"
+                },
+                "ru": {
+                  "label": "Вместе приготовить еду"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-before-yes",
+      "category": "relationships",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "Before you say yes",
+          "purpose": "Take a closer look at one request you have not answered yet.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "If the other person were making this choice, what would you want them to consider?",
+          "recommendation": "Write the reply in your own words and check that it reflects what you are genuinely able to offer.",
+          "tags": [
+            "reflection",
+            "relationships"
+          ]
+        },
+        "ru": {
+          "title": "Прежде чем согласиться",
+          "purpose": "Рассмотри одну просьбу, на которую ты ещё не ответил.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "Если бы этот выбор делал другой человек, что ты посоветовал бы ему учесть?",
+          "recommendation": "Сформулируй ответ своими словами. Проверь, что он отражает то, что ты действительно можешь предложить.",
+          "tags": [
+            "размышление",
+            "прежде чем согласиться"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "quick",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What was your first impulse?"
+            },
+            "ru": {
+              "prompt": "Каким был твой первый порыв?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Agree immediately"
+                },
+                "ru": {
+                  "label": "Сразу согласиться"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Ask for details"
+                },
+                "ru": {
+                  "label": "Уточнить подробности"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Put off answering"
+                },
+                "ru": {
+                  "label": "Отложить ответ"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Decline quickly"
+                },
+                "ru": {
+                  "label": "Сразу отказаться"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "cost",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What would you need to make time for it?"
+            },
+            "ru": {
+              "prompt": "Что пришлось бы изменить, чтобы найти на это время?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Move another commitment"
+                },
+                "ru": {
+                  "label": "Перенести другое обязательство"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Ask someone for help"
+                },
+                "ru": {
+                  "label": "Попросить кого-то о помощи"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Give up some rest"
+                },
+                "ru": {
+                  "label": "Пожертвовать частью отдыха"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Nothing significant"
+                },
+                "ru": {
+                  "label": "Ничего существенного"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "reply",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What reply would best fit your situation?"
+            },
+            "ru": {
+              "prompt": "Какой ответ лучше подходит к твоей ситуации?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Yes, with a clear time agreed"
+                },
+                "ru": {
+                  "label": "Да, если заранее договориться о времени"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "I can help with one part"
+                },
+                "ru": {
+                  "label": "Я могу помочь с одной частью"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "I need time to check"
+                },
+                "ru": {
+                  "label": "Мне нужно время, чтобы проверить"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "I cannot take it on this time"
+                },
+                "ru": {
+                  "label": "В этот раз я не смогу взяться"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-path-at-work",
+      "category": "work",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "A direction at work",
+          "purpose": "Look for a part of your work you want to cultivate.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "What part of your work would you miss if it disappeared?",
+          "recommendation": "Try the change for one week and note one real example of how it affected your day.",
+          "tags": [
+            "reflection",
+            "work"
+          ]
+        },
+        "ru": {
+          "title": "Куда двигаться в работе",
+          "purpose": "Найди в работе то, чему тебе хочется давать больше места.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "Какой части работы тебе бы не хватало, если бы она исчезла?",
+          "recommendation": "Попробуй выбранное изменение в течение недели и отметь один конкретный пример того, как оно повлияло на день.",
+          "tags": [
+            "размышление",
+            "куда двигаться в работе"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "absorb",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which recent task held your attention naturally?"
+            },
+            "ru": {
+              "prompt": "Какое недавнее дело само удерживало твоё внимание?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Making something clear"
+                },
+                "ru": {
+                  "label": "Прояснять сложное"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Solving a practical problem"
+                },
+                "ru": {
+                  "label": "Решать практическую задачу"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Helping someone do their best work"
+                },
+                "ru": {
+                  "label": "Помогать другому хорошо выполнить работу"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Building something from scratch"
+                },
+                "ru": {
+                  "label": "Создавать с нуля"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "cost",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What most often gets in the way?"
+            },
+            "ru": {
+              "prompt": "Что чаще всего мешает?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Too many interruptions"
+                },
+                "ru": {
+                  "label": "Постоянные отвлечения"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Unclear responsibilities"
+                },
+                "ru": {
+                  "label": "Размытые обязанности"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Not enough time to learn"
+                },
+                "ru": {
+                  "label": "Не хватает времени учиться"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Little control over priorities"
+                },
+                "ru": {
+                  "label": "Мало влияния на приоритеты"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "experiment",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which small change could you try first?"
+            },
+            "ru": {
+              "prompt": "Какое небольшое изменение ты можешь попробовать первым?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Ask for one task of this kind"
+                },
+                "ru": {
+                  "label": "Попросить одну задачу такого типа"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Protect one uninterrupted hour"
+                },
+                "ru": {
+                  "label": "Выделить час без отвлечений"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Ask for feedback on a recent task"
+                },
+                "ru": {
+                  "label": "Попросить обратную связь по недавней задаче"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Keep a short record of what gives me energy"
+                },
+                "ru": {
+                  "label": "Коротко записывать, от чего прибавляется сил"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-self-talk",
+      "category": "selfEsteem",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "After a setback",
+          "purpose": "Think of a recent setback and the first thing you told yourself.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "Which part of your first thought would you phrase differently now?",
+          "recommendation": "Write one sentence that names a specific mistake and one next action. Keep both concrete.",
+          "tags": [
+            "reflection",
+            "selfEsteem"
+          ]
+        },
+        "ru": {
+          "title": "После неудачи",
+          "purpose": "Вспомни недавнюю неудачу и первые слова, которые ты сказал себе.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "Какую часть первой мысли ты бы сейчас сформулировал иначе?",
+          "recommendation": "Запиши одну конкретную ошибку и один следующий шаг. Постарайся описать их без общих выводов о себе.",
+          "tags": [
+            "размышление",
+            "после неудачи"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "first",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What did your first thought focus on?"
+            },
+            "ru": {
+              "prompt": "На что была направлена твоя первая мысль?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "What I had done wrong"
+                },
+                "ru": {
+                  "label": "Где я ошибся"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "What other people might think"
+                },
+                "ru": {
+                  "label": "Что подумают другие"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "How I could try again"
+                },
+                "ru": {
+                  "label": "Как попробовать ещё раз"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "What was outside my control"
+                },
+                "ru": {
+                  "label": "Что от меня не зависело"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "fair",
+          "kind": "multiple",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What might a fair account of the situation also include?"
+            },
+            "ru": {
+              "prompt": "Что ещё стоит учесть, чтобы оценить ситуацию справедливо?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "How much time I had"
+                },
+                "ru": {
+                  "label": "Сколько у меня было времени"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "What I did get right"
+                },
+                "ru": {
+                  "label": "Что всё-таки получилось"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Something I did not know yet"
+                },
+                "ru": {
+                  "label": "Чего я тогда ещё не знал"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Help or resources I did not have"
+                },
+                "ru": {
+                  "label": "Какой помощи или ресурсов не было"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "friend",
+          "kind": "text",
+          "optional": true,
+          "translations": {
+            "en": {
+              "prompt": "What would you say to a friend in the same situation?"
+            },
+            "ru": {
+              "prompt": "Что бы ты сказал другу в такой же ситуации?"
+            }
+          }
+        },
+        {
+          "id": "step",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What would help you move on?"
+            },
+            "ru": {
+              "prompt": "Что помогло бы тебе двигаться дальше?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "A practical repair"
+                },
+                "ru": {
+                  "label": "Исправить то, что можно"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "A break before deciding"
+                },
+                "ru": {
+                  "label": "Взять паузу до решения"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "A conversation with someone I trust"
+                },
+                "ru": {
+                  "label": "Поговорить с тем, кому доверяю"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "A small second attempt"
+                },
+                "ru": {
+                  "label": "Сделать небольшую вторую попытку"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-creative-start",
+      "category": "creativity",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "Getting unstuck",
+          "purpose": "Explore a small creative block you are facing.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "What are you asking this first draft to do? Is all of that needed today?",
+          "recommendation": "Try the temporary rule in the smallest version of your task and keep anything it helps you discover.",
+          "tags": [
+            "reflection",
+            "creativity"
+          ]
+        },
+        "ru": {
+          "title": "Как сдвинуться с места",
+          "purpose": "Присмотрись к делу, в котором стало трудно придумать что-то новое.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "Чего ты ждёшь от первого черновика? Нужно ли всё это уже сегодня?",
+          "recommendation": "Примени временное правило к самой маленькой части задачи и сохрани то, что оно помогло заметить.",
+          "tags": [
+            "размышление",
+            "как сдвинуться с места"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "where",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Where do you get stuck?"
+            },
+            "ru": {
+              "prompt": "В какой момент ты застреваешь?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Before I begin"
+                },
+                "ru": {
+                  "label": "До начала"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "When there are too many directions"
+                },
+                "ru": {
+                  "label": "Когда направлений слишком много"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "When an idea starts looking imperfect"
+                },
+                "ru": {
+                  "label": "Когда идея перестаёт казаться удачной"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "When I need someone to see it"
+                },
+                "ru": {
+                  "label": "Когда надо показать работу другому"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "permission",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which temporary rule would make it easier to begin?"
+            },
+            "ru": {
+              "prompt": "Какое временное правило помогло бы начать?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Make three rough versions"
+                },
+                "ru": {
+                  "label": "Сделать три черновых варианта"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Use only materials already nearby"
+                },
+                "ru": {
+                  "label": "Использовать только то, что уже под рукой"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Work for ten minutes and then stop"
+                },
+                "ru": {
+                  "label": "Поработать десять минут и остановиться"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Explain the idea to another person"
+                },
+                "ru": {
+                  "label": "Объяснить идею другому человеку"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "different",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What would count as useful progress today?"
+            },
+            "ru": {
+              "prompt": "Что сегодня можно считать продвижением?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "One clear decision"
+                },
+                "ru": {
+                  "label": "Одно ясное решение"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "A first rough draft"
+                },
+                "ru": {
+                  "label": "Первый черновик"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "A more useful question"
+                },
+                "ru": {
+                  "label": "Более полезный вопрос"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Knowing which idea to leave aside"
+                },
+                "ru": {
+                  "label": "Понимание, какую идею отложить"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "scales": []
+    },
+    {
+      "id": "assessment-digital-rhythm",
+      "category": "habits",
+      "contentVersion": 1,
+      "scoringVersion": 1,
+      "minutes": 4,
+      "source": "Neyvori",
+      "allowBack": true,
+      "translations": {
+        "en": {
+          "title": "A quieter phone",
+          "purpose": "Think about the last time you picked up your phone without planning to.",
+          "method": "Think of a recent, specific situation as you answer.",
+          "limitations": "Your answers describe what feels relevant to you today.",
+          "reflection": "When do you actually enjoy using your phone?",
+          "recommendation": "Try the smallest adjustment for one evening. Keep the ways you use your phone that you genuinely value.",
+          "tags": [
+            "reflection",
+            "habits"
+          ]
+        },
+        "ru": {
+          "title": "Телефон без лишнего шума",
+          "purpose": "Вспомни, когда ты в последний раз взял телефон без конкретной причины.",
+          "method": "Отвечая, вспоминай конкретную недавнюю ситуацию.",
+          "limitations": "Ответы отражают то, что сейчас важно для тебя.",
+          "reflection": "В какие моменты тебе действительно приятно пользоваться телефоном?",
+          "recommendation": "Попробуй самое простое изменение на один вечер. Сохрани то, ради чего ты действительно любишь пользоваться телефоном.",
+          "tags": [
+            "размышление",
+            "телефон без лишнего шума"
+          ]
+        }
+      },
+      "questions": [
+        {
+          "id": "cue",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What was happening just before?"
+            },
+            "ru": {
+              "prompt": "Что происходило прямо перед этим?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "I was waiting for something"
+                },
+                "ru": {
+                  "label": "Я чего-то ждал"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "A notification appeared"
+                },
+                "ru": {
+                  "label": "Появилось уведомление"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "A task became uncomfortable"
+                },
+                "ru": {
+                  "label": "Дело стало неприятным"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "I finished something and took a pause"
+                },
+                "ru": {
+                  "label": "Я закончил дело и сделал паузу"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "wish",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "What did you hope to get from checking?"
+            },
+            "ru": {
+              "prompt": "Чего ты ждал от этого момента с телефоном?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "A quick break"
+                },
+                "ru": {
+                  "label": "Короткой передышки"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Connection with someone"
+                },
+                "ru": {
+                  "label": "Контакта с кем-то"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "An answer or update"
+                },
+                "ru": {
+                  "label": "Ответа или новой информации"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "I am not sure"
+                },
+                "ru": {
+                  "label": "Не знаю"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "change",
+          "kind": "single",
+          "optional": false,
+          "translations": {
+            "en": {
+              "prompt": "Which adjustment could be realistic?"
+            },
+            "ru": {
+              "prompt": "Какое изменение кажется выполнимым?"
+            }
+          },
+          "options": [
+            {
+              "id": "choice-1",
+              "translations": {
+                "en": {
+                  "label": "Move one app off the first screen"
+                },
+                "ru": {
+                  "label": "Убрать одно приложение с первого экрана"
+                }
+              }
+            },
+            {
+              "id": "choice-2",
+              "translations": {
+                "en": {
+                  "label": "Keep the phone a little farther away"
+                },
+                "ru": {
+                  "label": "Положить телефон чуть дальше"
+                }
+              }
+            },
+            {
+              "id": "choice-3",
+              "translations": {
+                "en": {
+                  "label": "Choose a time to check updates"
+                },
+                "ru": {
+                  "label": "Выбрать время для проверки новых сообщений"
+                }
+              }
+            },
+            {
+              "id": "choice-4",
+              "translations": {
+                "en": {
+                  "label": "Decide what I want before unlocking"
+                },
+                "ru": {
+                  "label": "Перед разблокировкой решать, зачем беру телефон"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "scales": []
+    }
+  ],
+  "laboratory": {
+    "memoryGrid": {
+      "revision": 2,
+      "levels": [
+        {
+          "rounds": 6,
+          "span": 3,
+          "previewMs": 2900,
+          "windowMs": 3600
+        },
+        {
+          "rounds": 8,
+          "span": 4,
+          "previewMs": 2350,
+          "windowMs": 3000
+        },
+        {
+          "rounds": 12,
+          "span": 6,
+          "previewMs": 1700,
+          "windowMs": 2300
+        }
+      ]
+    },
+    "pulse": {
+      "revision": 2,
+      "levels": [
+        {
+          "rounds": 6,
+          "span": 3,
+          "previewMs": 2800,
+          "windowMs": 3500
+        },
+        {
+          "rounds": 9,
+          "span": 4,
+          "previewMs": 2300,
+          "windowMs": 2700
+        },
+        {
+          "rounds": 12,
+          "span": 5,
+          "previewMs": 1850,
+          "windowMs": 2200
+        }
+      ]
+    }
+  },
+  "journeys": [
+    {
+      "id": "learning-that-stays",
+      "contentVersion": 1,
+      "accessTier": "free",
+      "title": {
+        "en": "Learning that stays",
+        "ru": "Чтобы знание осталось"
+      },
+      "summary": {
+        "en": "Seven small sessions to find a way of remembering that fits your day.",
+        "ru": "Семь коротких занятий, чтобы найти способ запоминать, который впишется в твой день."
+      },
+      "steps": [
+        {
+          "title": {
+            "en": "Pick what matters",
+            "ru": "Выбери главное"
+          },
+          "prompt": {
+            "en": "Choose a small topic you would like to remember a week from now. Write down the three things you most want to be able to explain.",
+            "ru": "Выбери небольшую тему, которую хочешь помнить через неделю. Запиши три вещи, которые тебе важно уметь объяснить."
+          },
+          "article": "working-memory",
+          "experiment": null
+        },
+        {
+          "title": {
+            "en": "Try with the page closed",
+            "ru": "Закрой страницу"
+          },
+          "prompt": {
+            "en": "After reading one small section, close it and write two sentences from memory. Open it again, check your explanation and mark one meaningful omission.",
+            "ru": "Прочитай небольшой раздел, закрой его и напиши два предложения по памяти. Сверь запись с текстом и отметь один существенный пробел."
+          },
+          "article": "retrieval-and-learning",
+          "experiment": null
+        },
+        {
+          "title": {
+            "en": "Notice your first strategy",
+            "ru": "Заметь, с чего ты начал"
+          },
+          "prompt": {
+            "en": "Try one round in Memory Grid. What did your attention do first? Compare that experience with yesterday’s material and describe one difference between the tasks.",
+            "ru": "Пройди раунд «Сетки памяти». На что ты направил внимание в первую очередь? Сравни с вчерашним занятием и запиши одно различие между задачами."
+          },
+          "article": null,
+          "experiment": "memoryGrid"
+        },
+        {
+          "title": {
+            "en": "Make a cue",
+            "ru": "Подбери ориентир"
+          },
+          "prompt": {
+            "en": "Write one specific cue for your next five-minute return to the material. Pair a time or routine you already notice with the question you will try to answer.",
+            "ru": "Запланируй момент, когда вернёшься к теме на пять минут. Свяжи привычное время или действие с вопросом, на который попробуешь ответить."
+          },
+          "article": "if-then-plans",
+          "experiment": null
+        },
+        {
+          "title": {
+            "en": "Take it somewhere else",
+            "ru": "Перенеси идею"
+          },
+          "prompt": {
+            "en": "Explain one idea using an example from a different setting. If the example does not fit, note exactly where it breaks and return to the original explanation.",
+            "ru": "Объясни одну мысль на примере из другой ситуации. Если пример не подходит, уточни где именно и вернись к исходному объяснению."
+          },
+          "article": "test-an-alternative",
+          "experiment": null
+        },
+        {
+          "title": {
+            "en": "Remember after a pause",
+            "ru": "Вспомни после паузы"
+          },
+          "prompt": {
+            "en": "Return to the three starting questions without looking at your notes. Check the answers and separate the details you recalled from those you recognized on the page.",
+            "ru": "Вернись к трём первым вопросам, не заглядывая в записи. Проверь ответы и отметь, какие детали ты вспомнил сам, а какие узнал при сверке."
+          },
+          "article": "retrieval-and-learning",
+          "experiment": null
+        },
+        {
+          "title": {
+            "en": "Keep one useful practice",
+            "ru": "Оставь один полезный приём"
+          },
+          "prompt": {
+            "en": "Describe one way you will revisit this material over the next week. Pick a moment you can recognize, a small action and a way to notice what has stuck.",
+            "ru": "Наметь, как вернёшься к теме на следующей неделе. Выбери узнаваемый момент, небольшое действие и способ заметить, что осталось в памяти."
+          },
+          "article": "habit-and-context",
+          "experiment": null
+        }
+      ]
+    }
+  ]
+}
